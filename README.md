@@ -5,6 +5,13 @@ tools.
 
 If you see something that is missing, submit a pull request!
 
+## Front-end Web Performance
+
+- [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
+- [Performance Planet](http://calendar.perfplanet.com/)
+- [Ilya Grigorik's Blog](http://www.igvita.com/archives/)
+- [Optimizing Web Font Rendering](http://www.igvita.com/2014/01/31/optimizing-web-font-rendering-performance/)
+
 ## Ruby on Rails
 
 - [Ruby on Rails Guides](http://guides.rubyonrails.org/)
