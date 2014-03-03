@@ -5,6 +5,14 @@ tools.
 
 If you see something that is missing, submit a pull request!
 
+## Atom (Editor)
+
+- [Official Atom Docs](https://atom.io/docs/latest/)
+- [Splitting Atoms](https://github.com/jbranchaud/splitting-atoms)
+- [Defining Atom Commands in Your Init Script](http://jasonrudolph.com/blog/2014/03/02/defining-atom-commands-in-your-init-script/)
+- [Exploring the Power of Atom Init Scripts](http://joshbranchaud.com/blog/2014/03/02/Exploring-The-Power-Of-Atom-Init-Scripts.html)
+- [Modularizing Atom Init Scripts](http://joshbranchaud.com/blog/2014/03/03/Modularizing-Atom-Init-Scripts.html)
+
 ## Front-end Web Performance
 
 - [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
