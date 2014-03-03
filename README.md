@@ -25,6 +25,14 @@ If you see something that is missing, submit a pull request!
 - [Ilya Grigorik's Blog](http://www.igvita.com/archives/)
 - [Optimizing Web Font Rendering](http://www.igvita.com/2014/01/31/optimizing-web-font-rendering-performance/)
 
+## iOS
+
+- [iOS Dev Center](https://developer.apple.com/devcenter/ios/index.action)
+- [Ray Wenderlich - Tutorials for iOS Developers and Gamers](http://www.raywenderlich.com/)
+- [NSHipster](http://nshipster.com/)
+- [objc - a periodical about best practices and advanced techniques in Objective-C](http://www.objc.io/)
+- [Subjective-C: a study of innovative iOS interfaces](http://subjc.com/)
+
 ## Ruby on Rails
 
 - [Ruby on Rails Guides](http://guides.rubyonrails.org/)
