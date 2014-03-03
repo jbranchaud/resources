@@ -13,6 +13,11 @@ If you see something that is missing, submit a pull request!
 - [Exploring the Power of Atom Init Scripts](http://joshbranchaud.com/blog/2014/03/02/Exploring-The-Power-Of-Atom-Init-Scripts.html)
 - [Modularizing Atom Init Scripts](http://joshbranchaud.com/blog/2014/03/03/Modularizing-Atom-Init-Scripts.html)
 
+## C
+
+- [The C Programming Language (the K&R book)](http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628) - you can buy it, but there are plenty of copies floating around on the internet
+- [The Descent to C](http://www.chiark.greenend.org.uk/~sgtatham/cdescent/)
+
 ## Front-end Web Performance
 
 - [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
