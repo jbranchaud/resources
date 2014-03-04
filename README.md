@@ -18,6 +18,11 @@ If you see something that is missing, submit a pull request!
 - [The C Programming Language (the K&R book)](http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628) - you can buy it, but there are plenty of copies floating around on the internet
 - [The Descent to C](http://www.chiark.greenend.org.uk/~sgtatham/cdescent/)
 
+## CoffeeScript
+
+- [CoffeeScript.org](http://coffeescript.org/)
+- [CoffeeScript Cookbook](http://coffeescriptcookbook.com/)
+
 ## Front-end Web Performance
 
 - [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
