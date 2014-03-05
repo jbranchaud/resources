@@ -5,6 +5,8 @@ tools.
 
 If you see something that is missing, submit a pull request!
 
+- [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+
 ## Atom (Editor)
 
 - [Official Atom Docs](https://atom.io/docs/latest/)
