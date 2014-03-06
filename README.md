@@ -25,12 +25,20 @@ If you see something that is missing, submit a pull request!
 - [CoffeeScript.org](http://coffeescript.org/)
 - [CoffeeScript Cookbook](http://coffeescriptcookbook.com/)
 
+## CSS
+
+- [Code Guide by @mdo - HTML](http://mdo.github.io/code-guide/#css)
+
 ## Front-end Web Performance
 
 - [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
 - [Performance Planet](http://calendar.perfplanet.com/)
 - [Ilya Grigorik's Blog](http://www.igvita.com/archives/)
 - [Optimizing Web Font Rendering](http://www.igvita.com/2014/01/31/optimizing-web-font-rendering-performance/)
+
+## HTML
+
+- [Code Guide by @mdo - HTML](http://mdo.github.io/code-guide/#html)
 
 ## iOS
 
