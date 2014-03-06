@@ -6,6 +6,7 @@ tools.
 If you see something that is missing, submit a pull request!
 
 - [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+- [Computer Science *Papers We Love*](https://github.com/papers-we-love/papers-we-love)
 
 ## Atom (Editor)
 
@@ -36,6 +37,7 @@ If you see something that is missing, submit a pull request!
 - [Ilya Grigorik's Blog](http://www.igvita.com/archives/)
 - [Optimizing Web Font Rendering](http://www.igvita.com/2014/01/31/optimizing-web-font-rendering-performance/)
 - [CSS-Perf by @mdo](https://github.com/mdo/css-perf)
+- [JavaScript Performance for Madmen](https://github.com/sq/JSIL/wiki/JavaScript-Performance-For-Madmen)
 
 ## HTML
 
