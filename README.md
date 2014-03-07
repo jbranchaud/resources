@@ -28,7 +28,7 @@ If you see something that is missing, submit a pull request!
 
 ## CSS
 
-- [Code Guide by @mdo - HTML](http://mdo.github.io/code-guide/#css)
+- [Code Guide by @mdo - CSS](http://mdo.github.io/code-guide/#css)
 
 ## D3.js
 
