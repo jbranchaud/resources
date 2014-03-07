@@ -77,6 +77,13 @@ If you see something that is missing, submit a pull request!
 - [objc - a periodical about best practices and advanced techniques in Objective-C](http://www.objc.io/)
 - [Subjective-C: a study of innovative iOS interfaces](http://subjc.com/)
 
+## JavaScript
+
+- [JavaScript - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
+- [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Douglas Crockford on JavaScript](http://javascript.crockford.com/)
+
 ## Ruby on Rails
 
 - [Ruby on Rails Guides](http://guides.rubyonrails.org/)
