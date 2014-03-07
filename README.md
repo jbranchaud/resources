@@ -30,6 +30,13 @@ If you see something that is missing, submit a pull request!
 
 - [Code Guide by @mdo - HTML](http://mdo.github.io/code-guide/#css)
 
+## D3.js
+
+- [d3js.org: Data Driven Documents](http://d3js.org/)
+- [Interactive Data Visualization, Scott Murray](http://alignedleft.com/tutorials/d3/)
+- [D3.js Wiki Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
+- [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
+
 ## Front-end Web Performance
 
 - [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
