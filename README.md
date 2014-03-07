@@ -51,6 +51,16 @@ If you see something that is missing, submit a pull request!
 - [CSS-Perf by @mdo](https://github.com/mdo/css-perf)
 - [JavaScript Performance for Madmen](https://github.com/sq/JSIL/wiki/JavaScript-Performance-For-Madmen)
 
+## Haskell
+
+- [Try Haskell](http://tryhaskell.org/)
+- [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
+- [A Gentle Introduction to Haskell](http://www.haskell.org/tutorial/)
+- [Real World Haskell](http://book.realworldhaskell.org/read/)
+- [List of Haskell Tutorials](http://www.haskell.org/haskellwiki/Tutorials)
+
+*includes both Hugs and GHC tutorials*
+
 ## HTML
 
 - [Code Guide by @mdo - HTML](http://mdo.github.io/code-guide/#html)
