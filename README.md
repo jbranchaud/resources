@@ -55,6 +55,14 @@ If you see something that is missing, submit a pull request!
 - [CSS-Perf by @mdo](https://github.com/mdo/css-perf)
 - [JavaScript Performance for Madmen](https://github.com/sq/JSIL/wiki/JavaScript-Performance-For-Madmen)
 
+## Git
+
+- [Git Docs](http://git-scm.com/docs)
+- [Pro Git - Scott Chacon](http://git-scm.com/book)
+- [Git Cheat Sheet](https://na1.salesforce.com/help/pdfs/en/salesforce_git_developer_cheatsheet.pdf)
+- [Git Workflows - Atlassian](https://www.atlassian.com/git/workflows)
+- [Git Tutorials - Atlassian](https://www.atlassian.com/git/tutorial)
+
 ## Haskell
 
 - [Try Haskell](http://tryhaskell.org/)
