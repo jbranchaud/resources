@@ -37,6 +37,11 @@ If you see something that is missing, submit a pull request!
 - [D3.js Wiki Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
 - [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
 
+## Front-end Web Development
+
+- [Front-end Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [Front-end Development Guidelines](http://taitems.github.io/Front-End-Development-Guidelines/)
+
 ## Front-end Web Performance
 
 - [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
