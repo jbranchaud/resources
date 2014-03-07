@@ -7,6 +7,7 @@ If you see something that is missing, submit a pull request!
 
 - [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 - [Computer Science *Papers We Love*](https://github.com/papers-we-love/papers-we-love)
+- [Hipster Dev Stack](http://hipsterdevstack.tumblr.com/)
 
 ## Atom (Editor)
 
