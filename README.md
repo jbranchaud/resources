@@ -63,6 +63,8 @@ If you see something that is missing, submit a pull request!
 
 ## HTML
 
+- [HTML - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML5 - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [Code Guide by @mdo - HTML](http://mdo.github.io/code-guide/#html)
 
 ## iOS
