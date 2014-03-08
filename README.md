@@ -17,6 +17,11 @@ If you see something that is missing, submit a pull request!
 - [Exploring the Power of Atom Init Scripts](http://joshbranchaud.com/blog/2014/03/02/Exploring-The-Power-Of-Atom-Init-Scripts.html)
 - [Modularizing Atom Init Scripts](http://joshbranchaud.com/blog/2014/03/03/Modularizing-Atom-Init-Scripts.html)
 
+## Bash
+
+- [Google's Shell Style Guide](https://google-styleguide.googlecode.com/svn/trunk/shell.xml)
+- [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls)
+
 ## C
 
 - [The C Programming Language (the K&R book)](http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628) - you can buy it, but there are plenty of copies floating around on the internet
