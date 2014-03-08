@@ -62,6 +62,7 @@ If you see something that is missing, submit a pull request!
 - [Git Cheat Sheet](https://na1.salesforce.com/help/pdfs/en/salesforce_git_developer_cheatsheet.pdf)
 - [Git Workflows - Atlassian](https://www.atlassian.com/git/workflows)
 - [Git Tutorials - Atlassian](https://www.atlassian.com/git/tutorial)
+- [Git tips from the trenches](https://ochronus.com/git-tips-from-the-trenches/)
 
 ## Haskell
 
