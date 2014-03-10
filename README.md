@@ -38,6 +38,7 @@ If you see something that is missing, submit a pull request!
 - [CSS3 - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 - [Code Guide by @mdo - CSS](http://mdo.github.io/code-guide/#css)
 - [Idomatic CSS](https://github.com/necolas/idiomatic-css)
+- [SMACSS - Scalable and Modular Architecture for CSS](http://smacss.com/book/)
 
 ## D3.js
 
