@@ -70,6 +70,8 @@ If you see something that is missing, submit a pull request!
 - [Git Tutorials - Atlassian](https://www.atlassian.com/git/tutorial)
 - [Git tips from the trenches](https://ochronus.com/git-tips-from-the-trenches/)
 - [Think Like a Git](http://think-like-a-git.net/)
+- [git-flow](http://nvie.com/posts/a-successful-git-branching-model/)
+- [github-flow](http://scottchacon.com/2011/08/31/github-flow.html)
 
 ## Haskell
 
