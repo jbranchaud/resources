@@ -102,6 +102,11 @@ If you see something that is missing, submit a pull request!
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Douglas Crockford on JavaScript](http://javascript.crockford.com/)
 
+## Objective-C
+
+- [objc - a periodical about best practices and advanced techniques in Objective-C](http://www.objc.io/)
+- [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide)
+
 ## Python
 
 - [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
