@@ -104,6 +104,7 @@ If you see something that is missing, submit a pull request!
 - [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Douglas Crockford on JavaScript](http://javascript.crockford.com/)
+- [Speaking JavaScript](http://speakingjs.com/es5/)
 
 ## Objective-C
 
