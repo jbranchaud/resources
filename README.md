@@ -128,6 +128,10 @@ If you see something that is missing, submit a pull request!
 - [A Curated List of Resources for Ruby and Rails Learning](http://www.learnrubyandrails.com/)
 - [Top Rails Resources](http://railsapps.github.io/best-recommended-learning-rails-books-resources.html)
 
+## SASS
+
+- [SASS Documentation Reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
+
 ## License
 
 Copyright &copy; 2014 Josh Branchaud
