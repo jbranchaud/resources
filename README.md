@@ -106,6 +106,10 @@ If you see something that is missing, submit a pull request!
 - [Douglas Crockford on JavaScript](http://javascript.crockford.com/)
 - [Speaking JavaScript](http://speakingjs.com/es5/)
 
+## LESS
+
+- [LESSCSS.org](http://lesscss.org/)
+
 ## Objective-C
 
 - [objc - a periodical about best practices and advanced techniques in Objective-C](http://www.objc.io/)
