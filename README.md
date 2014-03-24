@@ -109,6 +109,7 @@ If you see something that is missing, submit a pull request!
 ## LESS
 
 - [LESSCSS.org](http://lesscss.org/)
+- [LESS Language Features](http://lesscss.org/features/)
 
 ## Objective-C
 
