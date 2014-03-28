@@ -129,6 +129,12 @@ If you see something that is missing, submit a pull request!
 
 - [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
 
+## Ruby
+
+- [ruby-lang.org](https://www.ruby-lang.org/en/)
+- [Try Ruby](http://tryruby.org/levels/1/challenges/0)
+- [Why's Poignant Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
+
 ## Ruby on Rails
 
 - [Ruby on Rails Guides](http://guides.rubyonrails.org/)
