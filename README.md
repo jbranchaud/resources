@@ -49,6 +49,12 @@ If you see something that is missing, submit a pull request!
 - [D3.js Wiki Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
 - [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
 
+## Data Visualization (in the browser)
+
+- [d3js.org: Data Driven Documents](http://d3js.org/)
+- [Raphael](http://raphaeljs.com/)
+- [Chart.js](http://www.chartjs.org/)
+
 ### Flexbox
 
 - [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
