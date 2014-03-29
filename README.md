@@ -42,18 +42,18 @@ If you see something that is missing, submit a pull request!
 - [SMACSS - Scalable and Modular Architecture for CSS](http://smacss.com/book/)
 - [WTF, HTML and CSS?](http://wtfhtmlcss.com/)
 
-### Flexbox
-
-- [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Tinkering With Flexbox](http://css-tricks.com/video-screencasts/131-tinkering-flexbox/)
-- [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
-
 ## D3.js
 
 - [d3js.org: Data Driven Documents](http://d3js.org/)
 - [Interactive Data Visualization, Scott Murray](http://alignedleft.com/tutorials/d3/)
 - [D3.js Wiki Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
 - [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
+
+### Flexbox
+
+- [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Tinkering With Flexbox](http://css-tricks.com/video-screencasts/131-tinkering-flexbox/)
+- [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
 
 ## Front-end Web Development
 
