@@ -54,6 +54,8 @@ If you see something that is missing, submit a pull request!
 - [d3js.org: Data Driven Documents](http://d3js.org/)
 - [Raphael](http://raphaeljs.com/)
 - [Chart.js](http://www.chartjs.org/)
+- [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
+- [Reusable D3 Charts and Components](https://github.com/bugzu/reD3)
 
 ### Flexbox
 
