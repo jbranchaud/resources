@@ -32,6 +32,7 @@ If you see something that is missing, submit a pull request!
 
 - [CoffeeScript.org](http://coffeescript.org/)
 - [CoffeeScript Cookbook](http://coffeescriptcookbook.com/)
+- [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide)
 
 ## CSS
 
