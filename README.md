@@ -64,6 +64,15 @@ If you see something that is missing, submit a pull request!
 - [Tinkering With Flexbox](http://css-tricks.com/video-screencasts/131-tinkering-flexbox/)
 - [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
 
+## Editors
+
+- [Atom](https://atom.io/)
+- [Sublime Text](http://www.sublimetext.com/)
+- [Textmate](http://macromates.com/)
+- [Brackets](http://brackets.io/)
+- [Cloud9](https://c9.io/)
+- [Zed](http://zedapp.org/)
+
 ## Front-end Web Development
 
 - [Front-end Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
