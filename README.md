@@ -139,6 +139,11 @@ If you see something that is missing, submit a pull request!
 - [LESSCSS.org](http://lesscss.org/)
 - [LESS Language Features](http://lesscss.org/features/)
 
+## Markdown
+
+- [Markdown by John Gruber](http://daringfireball.net/projects/markdown/)
+- [Markdown Cheatsheet](http://markdown.chibi.io/)
+
 ## Objective-C
 
 - [objc - a periodical about best practices and advanced techniques in Objective-C](http://www.objc.io/)
