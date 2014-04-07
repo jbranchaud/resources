@@ -128,6 +128,7 @@ If you see something that is missing, submit a pull request!
 
 ## JavaScript
 
+- [Superhero.js](http://superherojs.com/) ([github](https://github.com/superherojs/superherojs))
 - [JavaScript - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
