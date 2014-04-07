@@ -160,6 +160,7 @@ If you see something that is missing, submit a pull request!
 - [Try Ruby](http://tryruby.org/levels/1/challenges/0)
 - [Why's Poignant Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
 - [Ruby Monk](https://rubymonk.com/)
+- [Understanding Ruby blocks, Procs, and lambdas](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/)
 - [Ruby Trick Shots: 24 Ruby Language Tips and Tricks](http://youtu.be/gIEMKOI_Y-4)
 - [Some Ruby Gotchas](http://blog.elpassion.com/ruby-gotchas/)
 
