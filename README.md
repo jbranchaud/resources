@@ -177,6 +177,11 @@ If you see something that is missing, submit a pull request!
 
 - [SASS Documentation Reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 
+## Web Apps
+
+- [Static Web Apps](http://www.staticapps.org/) ([github](https://github.com/staticapps/staticapps.org/))
+- [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/) ([github](https://github.com/addyosmani/backbone-fundamentals/))
+
 ## License
 
 Copyright &copy; 2014 Josh Branchaud
