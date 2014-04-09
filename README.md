@@ -169,6 +169,7 @@ If you see something that is missing, submit a pull request!
 
 - [Ruby on Rails Guides](http://guides.rubyonrails.org/)
 - [Ruby on Rails Tutorial: Learn Web Development with Rails](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
+- [RailsCasts](http://railscasts.com/) - free and subscription-based screencasts
 - [Rails Apps](http://railsapps.github.io/)
 - [User Authentication in Ruby on Rails](http://www.codeproject.com/Articles/575551/User-Authentication-in-Ruby-on-Rails)
 - [A Curated List of Resources for Ruby and Rails Learning](http://www.learnrubyandrails.com/)
