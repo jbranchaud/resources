@@ -32,6 +32,7 @@ If you see something that is missing, submit a pull request!
 ## CoffeeScript
 
 - [CoffeeScript.org](http://coffeescript.org/)
+- [CoffeeScript Basics](http://railscasts.com/episodes/267-coffeescript-basics)
 - [CoffeeScript Cookbook](http://coffeescriptcookbook.com/)
 - [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide)
 
