@@ -181,6 +181,11 @@ If you see something that is missing, submit a pull request!
 
 - [SASS Documentation Reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 
+## Vim
+
+- [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+- [Vim Regex](http://vimregex.com/)
+
 ## Web Apps
 
 - [Static Web Apps](http://www.staticapps.org/) ([github](https://github.com/staticapps/staticapps.org/))
