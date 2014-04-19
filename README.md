@@ -185,6 +185,7 @@ If you see something that is missing, submit a pull request!
 
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 - [Vim Regex](http://vimregex.com/)
+- [What are the dark corners of Vim your mom never told you about?](http://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about?rq=1)
 
 ## Web Apps
 
