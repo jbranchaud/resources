@@ -89,6 +89,10 @@ If you see something that is missing, submit a pull request!
 - [CSS-Perf by @mdo](https://github.com/mdo/css-perf)
 - [JavaScript Performance for Madmen](https://github.com/sq/JSIL/wiki/JavaScript-Performance-For-Madmen)
 
+## Game Programming
+
+- [Game Programming Patterns](http://gameprogrammingpatterns.com/)
+
 ## Git
 
 - [Git Docs](http://git-scm.com/docs)
