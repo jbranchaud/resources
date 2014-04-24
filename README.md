@@ -25,6 +25,7 @@ If you see something that is missing, submit a pull request!
 
 ## C
 
+- [Learn C The Hard Way](http://c.learncodethehardway.org/)
 - [The C Programming Language (the K&R book)](http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628) - you can buy it, but there are plenty of copies floating around on the internet
 - [The Descent to C](http://www.chiark.greenend.org.uk/~sgtatham/cdescent/)
 - [Learn C and Build Your Own Lisp](http://www.buildyourownlisp.com/) ([github](https://github.com/orangeduck/BuildYourOwnLisp))
