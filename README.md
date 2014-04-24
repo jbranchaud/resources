@@ -109,6 +109,7 @@ If you see something that is missing, submit a pull request!
 - [A Gentle Introduction to Haskell](http://www.haskell.org/tutorial/)
 - [Real World Haskell](http://book.realworldhaskell.org/read/)
 - [List of Haskell Tutorials](http://www.haskell.org/haskellwiki/Tutorials)
+- [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
 
 *includes both Hugs and GHC tutorials*
 
