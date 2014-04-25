@@ -132,6 +132,7 @@ If you see something that is missing, submit a pull request!
 - [NSHipster](http://nshipster.com/)
 - [objc - a periodical about best practices and advanced techniques in Objective-C](http://www.objc.io/)
 - [Subjective-C: a study of innovative iOS interfaces](http://subjc.com/)
+- [Autolayout Examples](https://github.com/justin/AutoLayoutZen)
 
 ## JavaScript
 
