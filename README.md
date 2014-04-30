@@ -158,6 +158,10 @@ If you see something that is missing, submit a pull request!
 - [objc - a periodical about best practices and advanced techniques in Objective-C](http://www.objc.io/)
 - [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide)
 
+## Operating Systems
+
+- [Think OS](http://www.greenteapress.com/thinkos/html/index.html)
+
 ## Python
 
 - [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
