@@ -160,7 +160,7 @@ If you see something that is missing, submit a pull request!
 
 ## Operating Systems
 
-- [Think OS](http://www.greenteapress.com/thinkos/html/index.html)
+- [Think OS: A Brief Introduction to Operating Systems](http://www.greenteapress.com/thinkos/html/index.html)
 
 ## Python
 
