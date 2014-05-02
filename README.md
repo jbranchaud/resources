@@ -9,6 +9,7 @@ If you see something that is missing, submit a pull request!
 - [Computer Science *Papers We Love*](https://github.com/papers-we-love/papers-we-love)
 - [Hipster Dev Stack](http://hipsterdevstack.tumblr.com/)
 - [Codecademy](http://www.codecademy.com/)
+- [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
 
 ## Atom (Editor)
 
