@@ -134,6 +134,10 @@ If you see something that is missing, submit a pull request!
 - [Subjective-C: a study of innovative iOS interfaces](http://subjc.com/)
 - [Autolayout Examples](https://github.com/justin/AutoLayoutZen)
 
+## Java
+
+- [An Opinionated Guide to Modern Java Development](http://blog.paralleluniverse.co/2014/05/01/modern-java/)
+
 ## JavaScript
 
 - [Superhero.js](http://superherojs.com/) ([github](https://github.com/superherojs/superherojs))
