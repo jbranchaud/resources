@@ -6,6 +6,7 @@ tools.
 If you see something that is missing, submit a pull request!
 
 - [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+- [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 - [Computer Science *Papers We Love*](https://github.com/papers-we-love/papers-we-love)
 - [Hipster Dev Stack](http://hipsterdevstack.tumblr.com/)
 - [Codecademy](http://www.codecademy.com/)
