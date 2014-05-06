@@ -168,6 +168,10 @@ tools.
 
 - [Think OS: A Brief Introduction to Operating Systems](http://www.greenteapress.com/thinkos/html/index.html)
 
+## Programming Languages
+
+- [7 Part Implement Your Own Programming Language Guide](https://github.com/kvalle/diy-lisp)
+
 ## Python
 
 - [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
