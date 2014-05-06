@@ -3,7 +3,7 @@
 My collection of online resources for various technologies, languages, and
 tools.
 
-If you see something that is missing, submit a pull request!
+*If you see something that is missing, submit a pull request!*
 
 - [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
