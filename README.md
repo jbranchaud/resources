@@ -61,6 +61,11 @@ tools.
 - [D3.js Wiki Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
 - [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
 
+### Maps
+
+- [Let's Make a Map](http://bost.ocks.org/mike/map/)
+- [Let's Make a Bubble Map](http://bost.ocks.org/mike/bubble-map/)
+
 ## Data Visualization (in the browser)
 
 - [d3js.org: Data Driven Documents](http://d3js.org/)
