@@ -25,6 +25,10 @@ tools.
 - [Google's Shell Style Guide](https://google-styleguide.googlecode.com/svn/trunk/shell.xml)
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls)
 
+## Bootstrap
+
+- [Bootstrap 3 Tips and Tricks You Might Not Know](http://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know)
+
 ## C
 
 - [Learn C The Hard Way](http://c.learncodethehardway.org/)
