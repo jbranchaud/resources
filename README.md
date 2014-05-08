@@ -127,6 +127,7 @@ tools.
 - [Real World Haskell](http://book.realworldhaskell.org/read/)
 - [List of Haskell Tutorials](http://www.haskell.org/haskellwiki/Tutorials)
 - [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
+- [Architecture of a Real World Haskell Application](http://www.onikudaki.net/blog/archives/6)
 
 *includes both Hugs and GHC tutorials*
 
