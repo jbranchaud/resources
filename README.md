@@ -124,6 +124,7 @@ tools.
 - [Try Haskell](http://tryhaskell.org/)
 - [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
 - [A Gentle Introduction to Haskell](http://www.haskell.org/tutorial/)
+- [Haskell Tutorial for C Programmers](http://www.haskell.org/haskellwiki/Haskell_Tutorial_for_C_Programmers)
 - [Real World Haskell](http://book.realworldhaskell.org/read/)
 - [List of Haskell Tutorials](http://www.haskell.org/haskellwiki/Tutorials)
 - [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
