@@ -172,6 +172,12 @@ tools.
 - [Markdown by John Gruber](http://daringfireball.net/projects/markdown/)
 - [Markdown Cheatsheet](http://markdown.chibi.io/)
 
+## OAuth
+
+- [OAuth.net Documentation](http://oauth.net/documentation/)
+- [OAuth Guide](http://hueniverse.com/oauth/)
+- [OAuth Security Cheatsheet](http://www.oauthsecurity.com/)
+
 ## Objective-C
 
 - [objc - a periodical about best practices and advanced techniques in Objective-C](http://www.objc.io/)
