@@ -119,6 +119,10 @@ tools.
 - [github-flow](http://scottchacon.com/2011/08/31/github-flow.html)
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn//gitmagic/)
 
+## Go
+
+- [An Introduction to Programming in Go](http://www.golang-book.com/)
+
 ## Haskell
 
 - [Try Haskell](http://tryhaskell.org/)
