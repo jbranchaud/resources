@@ -12,6 +12,10 @@ tools.
 - [Codecademy](http://www.codecademy.com/)
 - [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
 
+## 3D Graphics Programming
+
+- [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/#)
+
 ## Atom (Editor)
 
 - [Official Atom Docs](https://atom.io/docs/latest/)
