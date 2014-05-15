@@ -156,6 +156,10 @@ tools.
 - [Subjective-C: a study of innovative iOS interfaces](http://subjc.com/)
 - [Autolayout Examples](https://github.com/justin/AutoLayoutZen)
 
+## J
+
+- [Functional Programming and the J Programming Language](http://www.cs.trinity.edu/~jhowland/math-talk/functional1/)
+
 ## Java
 
 - [An Opinionated Guide to Modern Java Development, Part 1](http://blog.paralleluniverse.co/2014/05/01/modern-java/)
