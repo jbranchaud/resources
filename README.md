@@ -194,6 +194,7 @@ tools.
 ## OpenGL
 
 - [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/#)
+- [Learning Modern OpenGL](http://www.codeproject.com/Articles/771225/Learning-Modern-OpenGL)
 
 ## Operating Systems
 
