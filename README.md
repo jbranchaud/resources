@@ -83,6 +83,10 @@ tools.
 - [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
 - [Reusable D3 Charts and Components](https://github.com/bugzu/reD3)
 
+## Data Mining
+
+- [12 Free (as in beer) Data Mining Books](http://christonard.com/12-free-data-mining-books/)
+
 ## Editors
 
 - [Atom](https://atom.io/)
