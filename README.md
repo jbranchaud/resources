@@ -183,6 +183,10 @@ tools.
 - [LESSCSS.org](http://lesscss.org/)
 - [LESS Language Features](http://lesscss.org/features/)
 
+## Machine Learning
+
+- [Basics of Machine Learning](http://homepages.inf.ed.ac.uk/vlavrenk/iaml.html)
+
 ## Markdown
 
 - [Markdown by John Gruber](http://daringfireball.net/projects/markdown/)
