@@ -250,6 +250,12 @@ tools.
 
 - [SASS Documentation Reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 
+## tmux
+
+- [tmux manual pages](http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1)
+- [A tmux Crash Course](http://robots.thoughtbot.com/a-tmux-crash-course)
+- [tmux cheatsheet](https://gist.github.com/henrik/1967800)
+
 ## Vim
 
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
