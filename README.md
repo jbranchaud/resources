@@ -96,6 +96,11 @@ tools.
 - [Cloud9](https://c9.io/)
 - [Zed](http://zedapp.org/)
 
+### Sandboxes
+
+- [codepen](http://codepen.io/)
+- [JSFiddle](http://jsfiddle.net/)
+
 ## Front-end Web Development
 
 - [Front-end Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
