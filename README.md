@@ -78,6 +78,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [d3js.org: Data Driven Documents](http://d3js.org/)
 - [Interactive Data Visualization, Scott Murray](http://alignedleft.com/tutorials/d3/)
+- [Interactive Data Visualization for the Web, Scott Murray](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 - [D3.js Wiki Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
 - [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
 
