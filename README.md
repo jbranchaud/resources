@@ -16,6 +16,18 @@ tools.
 
 - [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/#)
 
+## AngularJS
+
+- [AngularJS.org Tutorial](https://docs.angularjs.org/tutorial)
+- [AngularJS Learning - all the things](https://github.com/jmcunningham/AngularJS-Learning)
+- [Learn Angular](http://www.learn-angular.org/)
+- [How to Learn AngularJS](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
+- [A JavaScript Feed Reader in Under 10 Minutes Using AngularJS](http://csharperimage.jeremylikness.com/2014/04/video-javascript-feed-reader-in-under.html)
+- [Introduction to AngularJS in 50 Examples](https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be)
+
+*many of these resource come from [this
+post](http://michaelcrump.net/angularjs-learning-materials)*
+
 ## Atom (Editor)
 
 - [Official Atom Docs](https://atom.io/docs/latest/)
