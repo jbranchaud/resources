@@ -205,6 +205,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Machine Learning
 
 - [Basics of Machine Learning](http://homepages.inf.ed.ac.uk/vlavrenk/iaml.html)
+- [What Does a Neural Network Actually Do?](http://moalquraishi.wordpress.com/2014/05/25/what-does-a-neural-network-actually-do/#)
 
 ## Markdown
 
