@@ -38,6 +38,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 ## Bash
 
+- [Defensive Bash Programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/)
 - [Google's Shell Style Guide](https://google-styleguide.googlecode.com/svn/trunk/shell.xml)
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls)
 
