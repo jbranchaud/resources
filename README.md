@@ -197,7 +197,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Douglas Crockford on JavaScript](http://javascript.crockford.com/)
 - [Speaking JavaScript](http://speakingjs.com/es5/)
-- [Airbnb JavaScript Style Guide](https://github.com/bevacqua/js)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ## LESS
 
