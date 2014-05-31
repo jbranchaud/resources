@@ -280,6 +280,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [A tmux Crash Course](http://robots.thoughtbot.com/a-tmux-crash-course)
 - [tmux cheatsheet](https://gist.github.com/henrik/1967800)
 
+## Typography
+
+- [Butterick's Practical Typography](http://practicaltypography.com/)
+
 ## Vim
 
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
