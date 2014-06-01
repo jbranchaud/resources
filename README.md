@@ -270,6 +270,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [A Curated List of Resources for Ruby and Rails Learning](http://www.learnrubyandrails.com/)
 - [Top Rails Resources](http://railsapps.github.io/best-recommended-learning-rails-books-resources.html)
 - [Good open source Ruby on Rails projects to learn from?](http://stackoverflow.com/questions/248371/good-open-source-ruby-on-rails-projects-to-learn-from)
+- [Simple RailsCasts projects to learn from](https://github.com/railscasts)
 
 ## SASS
 
