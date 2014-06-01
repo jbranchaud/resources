@@ -257,7 +257,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Ruby Trick Shots: 24 Ruby Language Tips and Tricks](http://youtu.be/gIEMKOI_Y-4)
 - [Some Ruby Gotchas](http://blog.elpassion.com/ruby-gotchas/)
 - [A Community-driven Ruby Coding Style Guide](https://github.com/bbatsov/ruby-style-guide)
-- [GitHub's Ruby Styleguide](https://github.com/styleguide/ruby)
+- [GitHub's Ruby Style Guide](https://github.com/styleguide/ruby)
 - [Practical Object-Oriented Design in Ruby: Examples](https://github.com/skmetz/poodr)
 
 ## Ruby on Rails
