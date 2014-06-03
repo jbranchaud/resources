@@ -214,6 +214,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Markdown by John Gruber](http://daringfireball.net/projects/markdown/)
 - [Markdown Cheatsheet](http://markdown.chibi.io/)
 
+## Node.js
+
+- [Node.js in Production](http://blog.carbonfive.com/2014/06/02/node-js-in-production/)
+
 ## OAuth
 
 - [OAuth.net Documentation](http://oauth.net/documentation/)
