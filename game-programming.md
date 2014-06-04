@@ -2,7 +2,11 @@
 
 ## Getting Started
 
+## General
+
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/)
+
+## JavaScript Game Development
 
 - [PlayfulJS](http://www.playfuljs.com/)
   - [Physics for the lazy](http://www.playfuljs.com/physics-for-the-lazy/)
