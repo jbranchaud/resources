@@ -10,3 +10,6 @@
   - [A first-person engine in 265 lines](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 
 - [voxel.js](http://voxeljs.com/)
+
+- [JavaScript Game Development - The Game Loop](http://nokarma.org/2011/02/02/javascript-game-development-the-game-loop/)
+- [JavaScript Game Development - Keyboard Input](http://nokarma.org/2011/02/27/javascript-game-development-keyboard-input/index.html)
