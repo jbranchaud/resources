@@ -17,6 +17,10 @@ tools.
 
 - [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/#)
 
+## API
+
+- [HTTP API Design Guide](https://github.com/interagent/http-api-design)
+
 ## AngularJS
 
 - [AngularJS.org Tutorial](https://docs.angularjs.org/tutorial)
