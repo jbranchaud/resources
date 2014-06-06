@@ -154,6 +154,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Go
 
 - [An Introduction to Programming in Go](http://www.golang-book.com/)
+- [Go: a simple programming environment](http://vimeo.com/69237265) (video)
 
 ## Haskell
 
