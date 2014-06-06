@@ -57,6 +57,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [The C Programming Language (the K&R book)](http://www.amazon.com/C-Programming-Language-2nd-Edition/dp/0131103628) - you can buy it, but there are plenty of copies floating around on the internet
 - [The Descent to C](http://www.chiark.greenend.org.uk/~sgtatham/cdescent/)
 - [Learn C and Build Your Own Lisp](http://www.buildyourownlisp.com/) ([github](https://github.com/orangeduck/BuildYourOwnLisp))
+- [Guide to Advanced Programming in C](http://pfacka.binaryparadise.com/articles/guide-to-advanced-programming-in-C.html)
 
 ## CoffeeScript
 
