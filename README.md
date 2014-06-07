@@ -206,6 +206,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Speaking JavaScript](http://speakingjs.com/es5/)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
+## jQuery
+
+- [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+
 ## LESS
 
 - [LESSCSS.org](http://lesscss.org/)
