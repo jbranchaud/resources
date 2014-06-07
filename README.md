@@ -121,6 +121,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [codepen](http://codepen.io/)
 - [JSFiddle](http://jsfiddle.net/)
 
+## Smalltalk
+
+- [GNU Smalltalk User's Guide](http://www.gnu.org/software/smalltalk/manual/gst.html#Using-GNU-Smalltalk)
+
 ## Front-end Web Development
 
 - [Front-end Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
