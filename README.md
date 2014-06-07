@@ -122,6 +122,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [codepen](http://codepen.io/)
 - [JSFiddle](http://jsfiddle.net/)
 
+## Sinatra
+
+- [Let's Build a Sinatra App](http://matt.weppler.me/2013/07/19/lets-build-a-sinatra-app.html)
+
 ## Smalltalk
 
 - [GNU Smalltalk User's Guide](http://www.gnu.org/software/smalltalk/manual/gst.html#Using-GNU-Smalltalk)
