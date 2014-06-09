@@ -123,6 +123,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [codepen](http://codepen.io/)
 - [JSFiddle](http://jsfiddle.net/)
 
+## Flask
+
+- [Explore Flask](http://exploreflask.com/)
+
 ## Front-end Web Development
 
 - [Front-end Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
