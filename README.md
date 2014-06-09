@@ -123,14 +123,6 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [codepen](http://codepen.io/)
 - [JSFiddle](http://jsfiddle.net/)
 
-## Sinatra
-
-- [Let's Build a Sinatra App](http://matt.weppler.me/2013/07/19/lets-build-a-sinatra-app.html)
-
-## Smalltalk
-
-- [GNU Smalltalk User's Guide](http://www.gnu.org/software/smalltalk/manual/gst.html#Using-GNU-Smalltalk)
-
 ## Front-end Web Development
 
 - [Front-end Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -302,6 +294,14 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## SASS
 
 - [SASS Documentation Reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
+
+## Sinatra
+
+- [Let's Build a Sinatra App](http://matt.weppler.me/2013/07/19/lets-build-a-sinatra-app.html)
+
+## Smalltalk
+
+- [GNU Smalltalk User's Guide](http://www.gnu.org/software/smalltalk/manual/gst.html#Using-GNU-Smalltalk)
 
 ## tmux
 
