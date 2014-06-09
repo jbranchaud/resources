@@ -294,6 +294,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Top Rails Resources](http://railsapps.github.io/best-recommended-learning-rails-books-resources.html)
 - [Good open source Ruby on Rails projects to learn from?](http://stackoverflow.com/questions/248371/good-open-source-ruby-on-rails-projects-to-learn-from)
 - [Simple RailsCasts projects to learn from](https://github.com/railscasts)
+- [Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
 
 ## SASS
 
