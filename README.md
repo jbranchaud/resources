@@ -324,6 +324,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [Butterick's Practical Typography](http://practicaltypography.com/)
 
+## Unix
+
+- [Unix Tips and Tricks](http://cfenollosa.com/misc/tricks.txt)
+
 ## Vim
 
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
