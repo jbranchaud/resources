@@ -245,6 +245,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Objective-C
 
 - [objc - a periodical about best practices and advanced techniques in Objective-C](http://www.objc.io/)
+- [Ray Wenderlich Objective-C Style Guide](https://github.com/raywenderlich/objective-c-style-guide)
 - [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide)
 
 ## OpenGL
