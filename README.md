@@ -12,6 +12,7 @@ tools.
 - [Codecademy](http://www.codecademy.com/)
 - [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
 - [Dash - offline API documentation](http://kapeli.com/dash)
+- [Google Style Guides](https://code.google.com/p/google-styleguide/)
 
 ## 3D Graphics Programming
 
