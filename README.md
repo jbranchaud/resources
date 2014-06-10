@@ -302,6 +302,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [SASS Documentation Reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 
+## Sed
+
+- [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
+
 ## Sinatra
 
 - [Let's Build a Sinatra App](http://matt.weppler.me/2013/07/19/lets-build-a-sinatra-app.html)
