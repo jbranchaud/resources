@@ -124,6 +124,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [codepen](http://codepen.io/)
 - [JSFiddle](http://jsfiddle.net/)
 
+## Ember
+
+- [Vic Ramon's Ember Tutorial](http://ember.vicramon.com/)
+
 ## Flask
 
 - [Explore Flask](http://exploreflask.com/)
