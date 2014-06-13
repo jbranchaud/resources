@@ -270,6 +270,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Python
 
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+- [How to Think Like a Computer Scientist: Learning with Python](http://openbookproject.net/thinkcs/python/english2e/)
 - [Top 10 Mistakes that Python Programmers Make](http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
 - [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
 - [How to Write a Lisp Interpreter in Python](http://norvig.com/lispy.html)
