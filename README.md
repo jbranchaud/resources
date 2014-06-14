@@ -14,6 +14,7 @@ tools.
 - [Dash - offline API documentation](http://kapeli.com/dash)
 - [Google Style Guides](https://code.google.com/p/google-styleguide/)
 - [bentobox.io](http://www.bentobox.io/)
+- [Frontend Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 ## 3D Graphics Programming
 
