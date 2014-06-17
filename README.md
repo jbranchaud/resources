@@ -306,6 +306,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Simple RailsCasts projects to learn from](https://github.com/railscasts)
 - [Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
 
+## Rust
+
+- [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
+
 ## SASS
 
 - [SASS Documentation Reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
