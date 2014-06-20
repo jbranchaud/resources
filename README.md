@@ -15,6 +15,7 @@ tools.
 - [Google Style Guides](https://code.google.com/p/google-styleguide/)
 - [bentobox.io](http://www.bentobox.io/)
 - [Frontend Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [Web Fundamentals: Best Practices for Modern Web Development](https://developers.google.com/web/fundamentals/)
 - [Web Starter Kit](https://developers.google.com/web/starter-kit/)
 
 ## 3D Graphics Programming
