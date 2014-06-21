@@ -122,6 +122,8 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Brackets](http://brackets.io/)
 - [Cloud9](https://c9.io/)
 - [Zed](http://zedapp.org/)
+- [Ace](http://ace.c9.io/build/kitchen-sink.html) ([github](https://github.com/ajaxorg/ace))
+
 
 ### Sandboxes
 
