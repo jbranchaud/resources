@@ -18,6 +18,7 @@ tools.
 - [Web Fundamentals: Best Practices for Modern Web Development](https://developers.google.com/web/fundamentals/)
 - [Web Starter Kit](https://developers.google.com/web/starter-kit/)
 - [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545)
+- [Big List of Static Web Servers](https://gist.github.com/willurd/5720255)
 
 ## 3D Graphics Programming
 
