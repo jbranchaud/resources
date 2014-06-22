@@ -106,6 +106,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Let's Make a Map](http://bost.ocks.org/mike/map/)
 - [Let's Make a Bubble Map](http://bost.ocks.org/mike/bubble-map/)
 - [Planetary.js: Awesome interactive globes for the web](http://planetaryjs.com/)
+- [SmallWorld.js](http://mikefowler.me/smallworld.js/) ([github](https://github.com/mikefowler/smallworld.js))
 
 ## Data Visualization (in the browser)
 
