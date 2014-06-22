@@ -40,6 +40,10 @@ tools.
 *many of these resource come from [this
 post](http://michaelcrump.net/angularjs-learning-materials)*
 
+## Assembly
+
+- [Whirlwind Tour of ARM Assembly](http://www.coranac.com/tonc/text/asm.htm)
+
 ## Atom (Editor)
 
 - [Official Atom Docs](https://atom.io/docs/latest/)
