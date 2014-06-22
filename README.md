@@ -17,6 +17,7 @@ tools.
 - [Frontend Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Web Fundamentals: Best Practices for Modern Web Development](https://developers.google.com/web/fundamentals/)
 - [Web Starter Kit](https://developers.google.com/web/starter-kit/)
+- [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545)
 
 ## 3D Graphics Programming
 
