@@ -279,6 +279,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Programming Languages
 
 - [7 Part Implement Your Own Programming Language Guide](https://github.com/kvalle/diy-lisp)
+- [The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
 
 ## Python
 
@@ -338,6 +339,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Smalltalk
 
 - [GNU Smalltalk User's Guide](http://www.gnu.org/software/smalltalk/manual/gst.html#Using-GNU-Smalltalk)
+- [The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
 
 ## tmux
 
