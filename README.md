@@ -318,6 +318,11 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Simple RailsCasts projects to learn from](https://github.com/railscasts)
 - [Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
 
+### Testing
+
+- [Testing CoffeeScript for Rails with Jasmine](http://www.derekhammer.com/2012/02/18/testing-coffeescript-for-rails-with-jasmine.html)
+- [Testing JavaScript in Rails](http://codecuriosity.com/blog/2012/09/25/testing-javascript-in-rails/)
+
 ## Rust
 
 - [The Rust Lang Tutorial](http://doc.rust-lang.org/tutorial.html)
