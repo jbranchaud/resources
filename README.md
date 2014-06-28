@@ -74,6 +74,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Guide to Advanced Programming in C](http://pfacka.binaryparadise.com/articles/guide-to-advanced-programming-in-C.html)
 - [C++ Patterns Using Plain C](http://blog.noctua-software.com/cpp-patterns-using-plain-c.html)
 
+## Clojure
+
+- [Functional Programming in Clojure](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html)
+
 ## CoffeeScript
 
 - [CoffeeScript.org](http://coffeescript.org/)
