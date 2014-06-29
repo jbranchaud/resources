@@ -373,6 +373,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 - [Best of Vim Tips](http://zzapper.co.uk/vimtips.html)
 - [Vim Regex](http://vimregex.com/)
+- [Vim Text Objects: The Definitive Guide](http://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/)
 - [What are the dark corners of Vim your mom never told you about?](http://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about?rq=1)
 - [VimAwesome - Awesome Vim Plugins from Across the Universe](http://vimawesome.com/)
 
