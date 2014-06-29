@@ -310,6 +310,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [A Community-driven Ruby Coding Style Guide](https://github.com/bbatsov/ruby-style-guide)
 - [GitHub's Ruby Style Guide](https://github.com/styleguide/ruby)
 - [Practical Object-Oriented Design in Ruby: Examples](https://github.com/skmetz/poodr)
+- [How I Start: Ruby with Steve Klabnik](http://www.howistart.org/posts/ruby/1)
 
 ## Ruby on Rails
 
