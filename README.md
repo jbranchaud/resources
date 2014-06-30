@@ -296,6 +296,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
 - [How to Write a Lisp Interpreter in Python](http://norvig.com/lispy.html)
 
+## Reactive Programming
+
+- [The Introduction to Reactive Programming You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+
 ## Ruby
 
 - [ruby-lang.org](https://www.ruby-lang.org/en/)
