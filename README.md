@@ -258,6 +258,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Markdown by John Gruber](http://daringfireball.net/projects/markdown/)
 - [Markdown Cheatsheet](http://markdown.chibi.io/)
 
+## Meteor.js
+
+- [Your First Meteor Application](https://leanpub.com/meteortutorial/read)
+
 ## Node.js
 
 - [The Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node)
