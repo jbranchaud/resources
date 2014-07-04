@@ -373,6 +373,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Typography
 
 - [Butterick's Practical Typography](http://practicaltypography.com/)
+- [Beautiful Web Type](https://github.com/ubuwaits/beautiful-web-type)
 
 ## Unix
 
