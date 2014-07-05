@@ -238,6 +238,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - [Unit Testing in JavaScript with Jasmine](http://www.matthew-steele.com/unit-testing-in-javascript-with-jasmine/) (video)
 - [Human JavaScript](http://read.humanjavascript.com/)
+- [JavaScript Modules](http://jsmodules.io/)
 
 ## jQuery
 
