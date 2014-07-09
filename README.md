@@ -299,6 +299,9 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Project Euler](http://projecteuler.net/)
 - [/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer)
 - [Coffee Time Challenges](http://www.datagenetics.com/blog/june22014/index.html)
+- [CodeChef](http://www.codechef.com/)
+- [UVa Online Judge Programming Challenges](http://uva.onlinejudge.org/)
+- [ACM ICPC Past Problems](http://icpc.baylor.edu/worldfinals/problems)
 - [Mega Project List](https://github.com/karan/Projects)
 
 ## Programming Languages
