@@ -21,6 +21,9 @@ tools.
 - [Big List of Static Web Servers](https://gist.github.com/willurd/5720255)
 - [searchcode - a source code search engine](https://searchcode.com/)
 - [sourcegraph](https://sourcegraph.com/)
+- [r/programming](http://www.reddit.com/r/programming)
+- [r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer)
+- [r/coding](http://www.reddit.com/r/coding)
 
 ## 3D Graphics Programming
 
