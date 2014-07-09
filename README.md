@@ -296,6 +296,8 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Programming Challenges
 
 - [Google Code Jam archives](https://code.google.com/codejam/archive.html)
+- [Project Euler](http://projecteuler.net/)
+- [/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer)
 
 ## Programming Languages
 
