@@ -302,6 +302,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [CodeChef](http://www.codechef.com/)
 - [UVa Online Judge Programming Challenges](http://uva.onlinejudge.org/)
 - [ACM ICPC Past Problems](http://icpc.baylor.edu/worldfinals/problems)
+- [Rosalind Bioinformatics Problems](http://rosalind.info/problems/list-view/)
 - [Mega Project List](https://github.com/karan/Projects)
 
 ## Programming Languages
