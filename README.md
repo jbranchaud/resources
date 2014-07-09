@@ -293,6 +293,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [Think OS: A Brief Introduction to Operating Systems](http://www.greenteapress.com/thinkos/html/index.html)
 
+## Programming Challenges
+
+- [Google Code Jam archives](https://code.google.com/codejam/archive.html)
+
 ## Programming Languages
 
 - [7 Part Implement Your Own Programming Language Guide](https://github.com/kvalle/diy-lisp)
