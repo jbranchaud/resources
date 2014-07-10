@@ -316,6 +316,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [How to Think Like a Computer Scientist: Learning with Python](http://openbookproject.net/thinkcs/python/english2e/)
 - [Full Stack Python](http://www.fullstackpython.com/)
 - [Top 10 Mistakes that Python Programmers Make](http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
+- [Anti-Patterns in Python Programming](http://lignos.org/py_antipatterns/)
 - [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
 - [How to Write a Lisp Interpreter in Python](http://norvig.com/lispy.html)
 
