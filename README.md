@@ -254,6 +254,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [LESSCSS.org](http://lesscss.org/)
 - [LESS Language Features](http://lesscss.org/features/)
 
+## Lisp
+
+- [Learn Lisp the Hard Way](http://learnlispthehardway.org/book/)
+
 ## Machine Learning
 
 - [Basics of Machine Learning](http://homepages.inf.ed.ac.uk/vlavrenk/iaml.html)
