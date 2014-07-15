@@ -24,6 +24,7 @@ tools.
 - [r/programming](http://www.reddit.com/r/programming)
 - [r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer)
 - [r/coding](http://www.reddit.com/r/coding)
+- [The Nature of Code](http://natureofcode.com/book/introduction/)
 
 ## 3D Graphics Programming
 
