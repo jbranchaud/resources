@@ -245,6 +245,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Unit Testing in JavaScript with Jasmine](http://www.matthew-steele.com/unit-testing-in-javascript-with-jasmine/) (video)
 - [Human JavaScript](http://read.humanjavascript.com/)
 - [JavaScript Modules](http://jsmodules.io/)
+- [JS Must Watch](https://github.com/bolshchikov/js-must-watch)
 
 ## jQuery
 
