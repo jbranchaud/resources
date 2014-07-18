@@ -6,3 +6,4 @@
 
 - [A Community-driven Ruby Coding Style Guide](https://github.com/bbatsov/ruby-style-guide)
 - [GitHub's Ruby Style Guide](https://github.com/styleguide/ruby)
+- [Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
