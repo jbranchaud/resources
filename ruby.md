@@ -5,6 +5,7 @@
 ## Official Guides
 
 - [ruby-lang.org](https://www.ruby-lang.org/en/)
+- [Ruby on Rails Guides](http://guides.rubyonrails.org/)
 
 ## Style Guides
 
