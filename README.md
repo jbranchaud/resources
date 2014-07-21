@@ -316,6 +316,9 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [ACM ICPC Past Problems](http://icpc.baylor.edu/worldfinals/problems)
 - [Rosalind Bioinformatics Problems](http://rosalind.info/problems/list-view/)
 - [Mega Project List](https://github.com/karan/Projects)
+- [Ninety-Nine Haskell Problems](http://www.haskell.org/haskellwiki/99_questions)
+- [Ninety-Nine Lisp Problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
+- [Ninety-Nine Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
 
 ## Programming Languages
 
