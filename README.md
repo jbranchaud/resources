@@ -327,6 +327,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [7 Part Implement Your Own Programming Language Guide](https://github.com/kvalle/diy-lisp)
 - [The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
 
+## Prolog
+
+- [Ninety-Nine Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
+
 ## Python
 
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
