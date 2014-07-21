@@ -210,6 +210,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
 - [Architecture of a Real World Haskell Application](http://www.onikudaki.net/blog/archives/6)
 - [Haskell Packages for Development](https://wunki.org/posts/2014-05-17-haskell-packages-development.html)
+- [Ninety-Nine Haskell Problems](http://www.haskell.org/haskellwiki/99_questions)
 
 *includes both Hugs and GHC tutorials*
 
