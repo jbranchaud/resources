@@ -47,6 +47,10 @@ tools.
 *many of these resource come from [this
 post](http://michaelcrump.net/angularjs-learning-materials)*
 
+## Artificial Intelligence
+
+- [Behavior Trees for AI: How They Work](http://outforafight.wordpress.com/2014/07/15/behaviour-behavior-trees-for-ai-dudes-part-1/)
+
 ## Assembly
 
 - [Whirlwind Tour of ARM Assembly](http://www.coranac.com/tonc/text/asm.htm)
