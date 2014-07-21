@@ -79,6 +79,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Learn C and Build Your Own Lisp](http://www.buildyourownlisp.com/) ([github](https://github.com/orangeduck/BuildYourOwnLisp))
 - [Guide to Advanced Programming in C](http://pfacka.binaryparadise.com/articles/guide-to-advanced-programming-in-C.html)
 - [C++ Patterns Using Plain C](http://blog.noctua-software.com/cpp-patterns-using-plain-c.html)
+- [C Programming Notes](http://www.eskimo.com/~scs/cclass/int/top.html)
 
 ## Clojure
 
