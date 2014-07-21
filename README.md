@@ -180,6 +180,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Game Programming
 
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/)
+- [List of Game Development Resources](https://github.com/ellisonleao/magictools)
 
 ## Git
 
