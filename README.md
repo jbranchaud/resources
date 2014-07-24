@@ -155,6 +155,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [codepen](http://codepen.io/)
 - [JSFiddle](http://jsfiddle.net/)
 
+## Emacs
+
+- [Master Emacs in One Year](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org)
+
 ## Ember
 
 - [Vic Ramon's Ember Tutorial](http://ember.vicramon.com/)
