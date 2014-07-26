@@ -44,6 +44,7 @@ tools.
 - [A JavaScript Feed Reader in Under 10 Minutes Using AngularJS](http://csharperimage.jeremylikness.com/2014/04/video-javascript-feed-reader-in-under.html)
 - [Introduction to AngularJS in 50 Examples](https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be)
 - [Testing with AngularJS](http://nebraskajs.com/2013/angularjs/) (video)
+- [AngularJS Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit)
 
 *many of these resource come from [this
 post](http://michaelcrump.net/angularjs-learning-materials)*
