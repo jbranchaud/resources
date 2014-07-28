@@ -419,6 +419,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [GNU Smalltalk User's Guide](http://www.gnu.org/software/smalltalk/manual/gst.html#Using-GNU-Smalltalk)
 - [The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
 
+## SVG
+
+- [A Compendium of SVG Information](http://css-tricks.com/mega-list-svg-information/)
+
 ## tmux
 
 - [tmux manual pages](http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1)
