@@ -26,6 +26,7 @@ tools.
 - [r/coding](http://www.reddit.com/r/coding)
 - [The Nature of Code](http://natureofcode.com/book/introduction/)
 - [How To Write A README Worth Reading](http://orchestrate.io/blog/2014/07/16/how-to-write-a-readme-worth-reading/)
+- [A Curated List of Awesome Lists](https://github.com/sindresorhus/awesome)
 
 ## 3D Graphics Programming
 
