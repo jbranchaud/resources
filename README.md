@@ -238,6 +238,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [objc - a periodical about best practices and advanced techniques in Objective-C](http://www.objc.io/)
 - [Subjective-C: a study of innovative iOS interfaces](http://subjc.com/)
 - [Autolayout Examples](https://github.com/justin/AutoLayoutZen)
+- [Awesome iOS](https://github.com/vsouza/awesome-ios)
 
 ## J
 
