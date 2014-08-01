@@ -10,6 +10,7 @@
 - [Ilya Grigorik's Blog](https://www.igvita.com/archives/)
 - [Joel on Software](http://www.joelonsoftware.com/)
 - [John Resig's Blog](http://ejohn.org/category/blog/)
+- [The Pastry Box Project](https://the-pastry-box-project.net/)
 - [Paul Graham's Essays](http://www.paulgraham.com/articles.html)
 - [PlayfulJS](http://www.playfuljs.com/)
 - [Position Absolute](http://www.position-absolute.com/)
