@@ -262,6 +262,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Human JavaScript](http://read.humanjavascript.com/)
 - [JavaScript Modules](http://jsmodules.io/)
 - [JS Must Watch](https://github.com/bolshchikov/js-must-watch)
+- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 
 ## jQuery
 
