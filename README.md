@@ -184,6 +184,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Optimizing Web Font Rendering](http://www.igvita.com/2014/01/31/optimizing-web-font-rendering-performance/)
 - [CSS-Perf by @mdo](https://github.com/mdo/css-perf)
 - [JavaScript Performance for Madmen](https://github.com/sq/JSIL/wiki/JavaScript-Performance-For-Madmen)
+- [List of Performance Analysis and Monitoring Tools](https://github.com/stefanjudis/perf-tooling)
 
 ## Game Programming
 
