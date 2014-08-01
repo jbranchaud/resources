@@ -161,6 +161,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Emacs
 
 - [Master Emacs in One Year](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org)
+- [Emacs Mini Manual](http://tuhdo.github.io/emacs-tutor.html)
 
 ## Ember
 
