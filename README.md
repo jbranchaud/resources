@@ -362,6 +362,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Anti-Patterns in Python Programming](http://lignos.org/py_antipatterns/)
 - [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
 - [How to Write a Lisp Interpreter in Python](http://norvig.com/lispy.html)
+- [Python Practice Book](http://anandology.com/python-practice-book/index.html)
 
 ## Reactive Programming
 
