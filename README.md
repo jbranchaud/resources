@@ -179,6 +179,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [Front-end Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Front-end Development Guidelines](http://taitems.github.io/Front-End-Development-Guidelines/)
+- [Dev Tool Secrets](http://devtoolsecrets.com/)
 
 ## Front-end Web Performance
 
