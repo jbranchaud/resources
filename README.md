@@ -29,6 +29,7 @@ tools.
 - [A Curated List of Awesome Lists](https://github.com/sindresorhus/awesome)
 - [A curated list of amazingly awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Tech Talks](http://phatak-dev.github.io/techtalks/)
+- [Guides: A guide for programming in style](https://github.com/thoughtbot/guides)
 
 ## 3D Graphics Programming
 
