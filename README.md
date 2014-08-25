@@ -334,6 +334,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [Think OS: A Brief Introduction to Operating Systems](http://www.greenteapress.com/thinkos/html/index.html)
 
+## Physics
+
+- [The Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
+
 ## Programming Challenges
 
 - [Google Code Jam archives](https://code.google.com/codejam/archive.html)
