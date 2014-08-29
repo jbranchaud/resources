@@ -143,6 +143,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Chart.js](http://www.chartjs.org/)
 - [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
 - [Reusable D3 Charts and Components](https://github.com/bugzu/reD3)
+- [Chartist.js](http://gionkunz.github.io/chartist-js/)
 
 ## Data Mining
 
