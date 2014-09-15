@@ -128,6 +128,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Interactive Data Visualization for the Web, Scott Murray](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 - [D3.js Wiki Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
 - [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
+- [D3.js Step by Step](http://zeroviscosity.com/category/d3-js-step-by-step)
 
 ### Maps
 
