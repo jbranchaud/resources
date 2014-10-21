@@ -107,6 +107,11 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [CoffeeScript Cookbook](http://coffeescriptcookbook.com/)
 - [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide)
 
+## Colors
+
+- [Colors: A nicer color palette for the web](http://clrs.cc/)
+- [Flat UI Colors](http://flatuicolors.com/)
+
 ## CSS
 
 - [CSS - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
