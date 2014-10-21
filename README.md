@@ -30,6 +30,7 @@ tools.
 - [A curated list of amazingly awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Tech Talks](http://phatak-dev.github.io/techtalks/)
 - [Guides: A guide for programming in style](https://github.com/thoughtbot/guides)
+- [Simple CPU](http://www.simplecpu.com/Binary.html)
 
 ## 3D Graphics Programming
 
