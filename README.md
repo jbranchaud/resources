@@ -447,6 +447,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [GNU Smalltalk User's Guide](http://www.gnu.org/software/smalltalk/manual/gst.html#Using-GNU-Smalltalk)
 - [The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
+- [Basic Aspects of Squeak and the Smalltalk-80 Programming Language](http://www.cosc.canterbury.ac.nz/wolfgang.kreutzer/cosc205/smalltalk1.html)
 
 ## SVG
 
