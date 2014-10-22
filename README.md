@@ -95,6 +95,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Guide to Advanced Programming in C](http://pfacka.binaryparadise.com/articles/guide-to-advanced-programming-in-C.html)
 - [C++ Patterns Using Plain C](http://blog.noctua-software.com/cpp-patterns-using-plain-c.html)
 - [C Programming Notes](http://www.eskimo.com/~scs/cclass/int/top.html)
+- [What Every C Programmer Should Know About Undefined Behavior](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html#)
 
 ## Clojure
 
