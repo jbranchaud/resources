@@ -494,6 +494,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Web Components The Right Way](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer Project](https://www.polymer-project.org/)
 - [WebComponents.org](http://webcomponents.org/)
+- [Polymer and Web Components change everything you know about web development](https://www.youtube.com/watch?v=8OJ7ih8EE7s) (video)
 
 ## License
 
