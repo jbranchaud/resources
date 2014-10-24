@@ -488,6 +488,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Static Web Apps](http://www.staticapps.org/) ([github](https://github.com/staticapps/staticapps.org/))
 - [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/) ([github](https://github.com/addyosmani/backbone-fundamentals/))
 
+## Web Components
+
+- [Web Components The Right Way](https://github.com/mateusortiz/webcomponents-the-right-way)
+
 ## License
 
 Copyright &copy; 2014 Josh Branchaud
