@@ -203,6 +203,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [CSS-Perf by @mdo](https://github.com/mdo/css-perf)
 - [JavaScript Performance for Madmen](https://github.com/sq/JSIL/wiki/JavaScript-Performance-For-Madmen)
 - [List of Performance Analysis and Monitoring Tools](https://github.com/stefanjudis/perf-tooling)
+- [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 
 ## Game Programming
 
