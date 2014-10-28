@@ -194,6 +194,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Front-end Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Front-end Development Guidelines](http://taitems.github.io/Front-End-Development-Guidelines/)
 - [Dev Tool Secrets](http://devtoolsecrets.com/)
+- [Frontdesk - community driven list of useful things for front end developers](https://github.com/miripiruni/frontdesk)
 
 ## Front-end Web Performance
 
