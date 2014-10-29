@@ -156,6 +156,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Reusable D3 Charts and Components](https://github.com/bugzu/reD3)
 - [Chartist.js](http://gionkunz.github.io/chartist-js/)
 - [Data Visualization with JavaScript](http://jsdatav.is/intro.html)
+- [Bokeh - Interactive Web Plotting for Python](http://bokeh.pydata.org/)
 
 ## Data Mining
 
