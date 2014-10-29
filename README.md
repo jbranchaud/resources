@@ -145,6 +145,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Let's Make a Bubble Map](http://bost.ocks.org/mike/bubble-map/)
 - [Planetary.js: Awesome interactive globes for the web](http://planetaryjs.com/)
 - [SmallWorld.js](http://mikefowler.me/smallworld.js/) ([github](https://github.com/mikefowler/smallworld.js))
+- [Geography of Jobs: animated mapping with D3](http://www.axismaps.com/blog/2014/10/geography-of-jobs-animated-mapping-with-d3/)
 
 ## Data Visualization (in the browser)
 
