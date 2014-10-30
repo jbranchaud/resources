@@ -293,6 +293,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Advanced objects in JavaScript](http://bjorn.tipling.com/advanced-objects-in-javascript)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+- [Understanding JavaScript Inheritance](https://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
 
 ## jQuery
 
