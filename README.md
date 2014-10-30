@@ -279,7 +279,8 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [Superhero.js](http://superherojs.com/) ([github](https://github.com/superherojs/superherojs))
 - [JavaScript - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
+- [Eloquent JavaScript 2nd Edition](http://eloquentjavascript.net/contents.html)
+- [Eloquent JavaScript 1st Edition](http://eloquentjavascript.net/1st_edition/)
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Douglas Crockford on JavaScript](http://javascript.crockford.com/)
 - [Speaking JavaScript](http://speakingjs.com/es5/)
