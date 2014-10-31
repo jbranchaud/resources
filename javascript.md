@@ -18,6 +18,7 @@
 ## Testing
 
 - [How we test client-side JavaScript: Setup and Patterns](http://informatics.unep-wcmc.org/post/86302609060/how-we-test-client-side-javascript-setup-and-patterns)
+- [Testable JavaScript - Architecting Your Application for Testability](https://www.youtube.com/watch?v=JjqKQ8ezwKQ) (video)
 
 ## Web Components
 
