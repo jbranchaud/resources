@@ -8,6 +8,7 @@
 ## Design Patterns
 
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Patterns for Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
 
 ## Functional JavaScript
 
