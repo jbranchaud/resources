@@ -454,6 +454,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [SASS Documentation Reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 
+## Scala
+
+- [Scala Best Practices](https://github.com/alexandru/scala-best-practices/)
+
 ## Sed
 
 - [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
