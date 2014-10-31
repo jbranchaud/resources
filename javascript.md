@@ -2,6 +2,7 @@
 
 ## Concepts
 
+- [Understanding JavaScript Inheritance](https://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
 - [Self-Executing Anonymous Functions or How to Write Clean JavaScript](http://esbueno.noahstokes.com/post/77292606977/self-executing-anonymous-functions-or-how-to-write)
 
 ## Functional JavaScript
