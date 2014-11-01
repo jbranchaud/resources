@@ -4,6 +4,7 @@
 
 - [Understanding JavaScript Inheritance](https://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
 - [Self-Executing Anonymous Functions or How to Write Clean JavaScript](http://esbueno.noahstokes.com/post/77292606977/self-executing-anonymous-functions-or-how-to-write)
+- [Back to Basics: Anonymous Functions and Closures](http://robots.thoughtbot.com/back-to-basics-anonymous-functions-and-closures)
 
 ## Design Patterns
 
