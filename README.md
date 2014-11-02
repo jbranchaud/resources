@@ -404,6 +404,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Build a Real-Time Twitter Stream with Node and React.js](http://scotch.io/tutorials/javascript/build-a-real-time-twitter-stream-with-node-and-react-js)
 - [Getting to Know Flux, the React.js Architecture](http://scotch.io/tutorials/javascript/getting-to-know-flux-the-react-js-architecture)
 - [Build a Simple Shopping Cart Using React.js and Flux](http://scotch.io/tutorials/javascript/creating-a-simple-shopping-cart-with-react-js-and-flux)
+- [Awesome React](https://github.com/enaqx/awesome-react)
 
 ## Ruby
 
