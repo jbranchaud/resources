@@ -53,7 +53,7 @@ tools.
 - [How to Learn AngularJS](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
 - [A JavaScript Feed Reader in Under 10 Minutes Using AngularJS](http://csharperimage.jeremylikness.com/2014/04/video-javascript-feed-reader-in-under.html)
 - [Introduction to AngularJS in 50 Examples](https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be)
-- [Testing with AngularJS](http://nebraskajs.com/2013/angularjs/) (video)
+- [Testing with AngularJS](http://nebraskajs.com/2013/angularjs/) [video]
 - [AngularJS Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit)
 
 *many of these resource come from [this
@@ -230,7 +230,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Go
 
 - [An Introduction to Programming in Go](http://www.golang-book.com/)
-- [Go: a simple programming environment](http://vimeo.com/69237265) (video)
+- [Go: a simple programming environment](http://vimeo.com/69237265) [video]
 - [Get Your Development Team Started With Go](https://www.digitalocean.com/company/blog/get-your-development-team-started-with-go/)
 
 ## Haskell
@@ -285,7 +285,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Douglas Crockford on JavaScript](http://javascript.crockford.com/)
 - [Speaking JavaScript](http://speakingjs.com/es5/)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-- [Unit Testing in JavaScript with Jasmine](http://www.matthew-steele.com/unit-testing-in-javascript-with-jasmine/) (video)
+- [Unit Testing in JavaScript with Jasmine](http://www.matthew-steele.com/unit-testing-in-javascript-with-jasmine/) [video]
 - [Human JavaScript](http://read.humanjavascript.com/)
 - [JavaScript Modules](http://jsmodules.io/)
 - [JS Must Watch](https://github.com/bolshchikov/js-must-watch)
@@ -515,7 +515,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Web Components The Right Way](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer Project](https://www.polymer-project.org/)
 - [WebComponents.org](http://webcomponents.org/)
-- [Polymer and Web Components change everything you know about web development](https://www.youtube.com/watch?v=8OJ7ih8EE7s) (video)
+- [Polymer and Web Components change everything you know about web development](https://www.youtube.com/watch?v=8OJ7ih8EE7s) [video]
 - [Web Components the Right Way](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Google Web Components Style Guide](https://github.com/GoogleWebComponents/style-guide)
 
