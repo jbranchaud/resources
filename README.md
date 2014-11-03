@@ -361,6 +361,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [The Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
 
+## Product Design
+
+- [Building SoundCloud](http://www.michaelevensen.com/building-soundcloud/introduction/)
+
 ## Programming Challenges
 
 - [Google Code Jam archives](https://code.google.com/codejam/archive.html)
