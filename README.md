@@ -209,6 +209,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [JavaScript Performance for Madmen](https://github.com/sq/JSIL/wiki/JavaScript-Performance-For-Madmen)
 - [List of Performance Analysis and Monitoring Tools](https://github.com/stefanjudis/perf-tooling)
 - [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+- [Tips for Authoring Fast-Loading HTML Pages](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Tips_for_authoring_fast-loading_HTML_pages)
 
 ## Game Programming
 
