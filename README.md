@@ -364,6 +364,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Product Design
 
 - [Building SoundCloud](http://www.michaelevensen.com/building-soundcloud/introduction/)
+- [Proving Taste](http://cobyism.com/blog/proving-taste/)
 
 ## Programming Challenges
 
