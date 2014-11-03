@@ -32,6 +32,7 @@ tools.
 - [Guides: A guide for programming in style](https://github.com/thoughtbot/guides)
 - [Simple CPU](http://www.simplecpu.com/Binary.html)
 - [IntroLearn: Programming](http://introlearn.com/programming-main.php)
+- [Structure and Interpretation of Computer Programs](http://xuanji.appspot.com/isicp/index.html)
 
 ## 3D Graphics Programming
 
