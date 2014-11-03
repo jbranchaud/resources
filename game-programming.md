@@ -18,6 +18,9 @@
 - [JavaScript Game Development - The Game Loop](http://nokarma.org/2011/02/02/javascript-game-development-the-game-loop/)
 - [JavaScript Game Development - Keyboard Input](http://nokarma.org/2011/02/27/javascript-game-development-keyboard-input/index.html)
 
+- [Processing.js: The Basics](http://processingjs.nihongoresources.com/test/PjsGameEngine/docs/tutorial/basic.html)
+- [Processing.js: Let's Make a Mario game](http://processingjs.nihongoresources.com/test/PjsGameEngine/docs/tutorial/mario.html)
+
 ## Unity Game Development
 
 - [Game Development with Unity 2D - part 1: The Battle of the Teutoburg
