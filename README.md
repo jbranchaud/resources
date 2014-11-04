@@ -515,6 +515,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [What are the dark corners of Vim your mom never told you about?](http://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about?rq=1)
 - [VimAwesome - Awesome Vim Plugins from Across the Universe](http://vimawesome.com/)
 - [Learning Vim in 2014: Getting More from Vim with Plugins](http://benmccormick.org/2014/07/21/learning-vim-in-2014-getting-more-from-vim-with-plugins/)
+- [Vim After 11 Years](http://statico.github.io/vim.html)
 
 ## Web Apps
 
