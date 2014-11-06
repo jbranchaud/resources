@@ -33,6 +33,7 @@ tools.
 - [Simple CPU](http://www.simplecpu.com/Binary.html)
 - [IntroLearn: Programming](http://introlearn.com/programming-main.php)
 - [Structure and Interpretation of Computer Programs](http://xuanji.appspot.com/isicp/index.html)
+- [Let's Build a Browser Engine](http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 
 ## 3D Graphics Programming
 
