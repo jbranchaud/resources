@@ -460,6 +460,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [A 30-Minute Introduction to Rust](http://doc.rust-lang.org/master/intro.html)
 - [The Rust Lang Tutorial](http://doc.rust-lang.org/tutorial.html)
 - [The Rust Reference Manual](http://doc.rust-lang.org/rust.html)
+- [Rust Note Research](https://github.com/rust-lang/rust/wiki/Note-research)
 - [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
 - [A Quick Intro to Rust Macros](https://danielkeep.github.io/quick-intro-to-macros.html)
 - [Awesome Rust](https://github.com/kud1ing/awesome-rust)
