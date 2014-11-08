@@ -101,6 +101,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [What Every C Programmer Should Know About Undefined Behavior](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html#)
 - [Building C Projects](http://nethack4.org/blog/building-c.html)
 
+## C++
+
+- [Common C++ Gotchas](http://vickychijwani.me/cpp-gotchas/)
+
 ## Clojure
 
 - [Functional Programming in Clojure](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html)
