@@ -15,8 +15,6 @@ tools.
 - [Google Style Guides](https://code.google.com/p/google-styleguide/)
 - [bentobox.io](http://www.bentobox.io/)
 - [Frontend Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
-- [Web Fundamentals: Best Practices for Modern Web Development](https://developers.google.com/web/fundamentals/)
-- [Web Starter Kit](https://developers.google.com/web/starter-kit/)
 - [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545)
 - [Big List of Static Web Servers](https://gist.github.com/willurd/5720255)
 - [searchcode - a source code search engine](https://searchcode.com/)
@@ -203,6 +201,8 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Front-end Development Guidelines](http://taitems.github.io/Front-End-Development-Guidelines/)
 - [Dev Tool Secrets](http://devtoolsecrets.com/)
 - [Frontdesk - community driven list of useful things for front end developers](https://github.com/miripiruni/frontdesk)
+- [Web Fundamentals: Best Practices for Modern Web Development](https://developers.google.com/web/fundamentals/)
+- [Web Starter Kit](https://developers.google.com/web/starter-kit/)
 
 ## Front-end Web Performance
 
