@@ -30,11 +30,8 @@ tools.
 - [A curated list of amazingly awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Tech Talks](http://phatak-dev.github.io/techtalks/)
 - [Guides: A guide for programming in style](https://github.com/thoughtbot/guides)
-- [Simple CPU](http://www.simplecpu.com/Binary.html)
 - [IntroLearn: Programming](http://introlearn.com/programming-main.php)
 - [Structure and Interpretation of Computer Programs](http://xuanji.appspot.com/isicp/index.html)
-- [Let's Build a Browser Engine](http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
-- [Bootstrapping a Simple Compiler From Nothing](http://rano.org/bcompiler.html)
 
 ## 3D Graphics Programming
 
@@ -339,6 +336,12 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Meteor.js
 
 - [Your First Meteor Application](https://leanpub.com/meteortutorial/read)
+
+## Misc
+
+- [Simple CPU](http://www.simplecpu.com/Binary.html)
+- [Let's Build a Browser Engine](http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+- [Bootstrapping a Simple Compiler From Nothing](http://rano.org/bcompiler.html)
 
 ## Node.js
 
