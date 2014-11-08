@@ -15,7 +15,6 @@ tools.
 - [Google Style Guides](https://code.google.com/p/google-styleguide/)
 - [bentobox.io](http://www.bentobox.io/)
 - [Frontend Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
-- [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545)
 - [Big List of Static Web Servers](https://gist.github.com/willurd/5720255)
 - [searchcode - a source code search engine](https://searchcode.com/)
 - [sourcegraph](https://sourcegraph.com/)
@@ -207,6 +206,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Front-end Web Performance
 
 - [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
+- [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545)
 - [Performance Planet](http://calendar.perfplanet.com/)
 - [Ilya Grigorik's Blog](http://www.igvita.com/archives/)
 - [Optimizing Web Font Rendering](http://www.igvita.com/2014/01/31/optimizing-web-font-rendering-performance/)
