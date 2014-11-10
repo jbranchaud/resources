@@ -126,6 +126,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Idomatic CSS](https://github.com/necolas/idiomatic-css)
 - [SMACSS - Scalable and Modular Architecture for CSS](http://smacss.com/book/)
 - [WTF, HTML and CSS?](http://wtfhtmlcss.com/)
+- [Must Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
 
 ### Flexbox
 
