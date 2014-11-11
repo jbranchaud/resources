@@ -314,6 +314,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 - [Understanding JavaScript Inheritance](https://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
 - [Must Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)
+- [Metacompilers Part 1 - Build a Compiler in JavaScript](http://www.bayfronttechnologies.com/mc_tutorial.html)
 
 ## jQuery
 
