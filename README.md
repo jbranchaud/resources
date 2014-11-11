@@ -239,6 +239,9 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [A Practical Git Introduction](http://mrchlblng.me/2014/09/practical-git-introduction/)
 - [Introduction to Git and GitHub](http://www.gotealeaf.com/books/git)
 
+*I dump all things git-related in
+[man-git](https://github.com/jbranchaud/man-git).*
+
 ## Go
 
 - [An Introduction to Programming in Go](http://www.golang-book.com/)
