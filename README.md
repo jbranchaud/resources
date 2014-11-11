@@ -199,6 +199,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [Front-end Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Front-end Development Guidelines](http://taitems.github.io/Front-End-Development-Guidelines/)
+- [Front-end Tooling Workflows](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
 - [Dev Tool Secrets](http://devtoolsecrets.com/)
 - [Frontdesk - community driven list of useful things for front end developers](https://github.com/miripiruni/frontdesk)
 - [Web Fundamentals: Best Practices for Modern Web Development](https://developers.google.com/web/fundamentals/)
