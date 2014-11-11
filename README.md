@@ -236,6 +236,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [git-flow](http://nvie.com/posts/a-successful-git-branching-model/)
 - [github-flow](http://scottchacon.com/2011/08/31/github-flow.html)
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn//gitmagic/)
+- [A Practical Git Introduction](http://mrchlblng.me/2014/09/practical-git-introduction/)
 
 ## Go
 
