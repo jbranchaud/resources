@@ -237,6 +237,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [github-flow](http://scottchacon.com/2011/08/31/github-flow.html)
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn//gitmagic/)
 - [A Practical Git Introduction](http://mrchlblng.me/2014/09/practical-git-introduction/)
+- [Introduction to Git and GitHub](http://www.gotealeaf.com/books/git)
 
 ## Go
 
