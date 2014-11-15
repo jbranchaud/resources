@@ -100,6 +100,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## C++
 
 - [Common C++ Gotchas](http://vickychijwani.me/cpp-gotchas/)
+- [Functional Programming in C++](http://gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php)
 
 ## Clojure
 
