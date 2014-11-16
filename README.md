@@ -489,6 +489,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Rust by Example](http://rustbyexample.com/)
 - [A Quick Intro to Rust Macros](https://danielkeep.github.io/quick-intro-to-macros.html)
 - [Awesome Rust](https://github.com/kud1ing/awesome-rust)
+- [Roguelike Tutorial in Rust](http://jaredonline.svbtle.com/roguelike-tutorial-table-of-contents)
 
 ## SASS
 
