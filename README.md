@@ -318,6 +318,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Understanding JavaScript Inheritance](https://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
 - [Must Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)
 - [Metacompilers Part 1 - Build a Compiler in JavaScript](http://www.bayfronttechnologies.com/mc_tutorial.html)
+- [idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
 
 ## jQuery
 
