@@ -517,6 +517,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## SVG
 
 - [A Compendium of SVG Information](http://css-tricks.com/mega-list-svg-information/)
+- [A Guide to SVG Animations](http://css-tricks.com/guide-svg-animations-smil/)
 
 ## tmux
 
