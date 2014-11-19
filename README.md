@@ -264,6 +264,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Haskell Packages for Development](https://wunki.org/posts/2014-05-17-haskell-packages-development.html)
 - [Ninety-Nine Haskell Problems](http://www.haskell.org/haskellwiki/99_questions)
 - [Getting It Done With Haskell](https://app.doxiq.com/d/rbczklzyvgczkfgh/Getting-it-Done-with-Haskell-pdf)
+- [How I Start: Haskell](http://howistart.org/posts/haskell/1)
 
 *includes both Hugs and GHC tutorials*
 
