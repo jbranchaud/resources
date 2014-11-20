@@ -493,6 +493,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Awesome Rust](https://github.com/kud1ing/awesome-rust)
 - [Roguelike Tutorial in Rust](http://jaredonline.svbtle.com/roguelike-tutorial-table-of-contents)
 - [Getting Rusty](http://pzol.github.io/getting_rusty/)
+- [This Week in Rust](http://this-week-in-rust.org/)
 
 ## SASS
 
