@@ -341,6 +341,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [What Does a Neural Network Actually Do?](http://moalquraishi.wordpress.com/2014/05/25/what-does-a-neural-network-actually-do/#)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Hacker's Guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+- [UCIrvine Machine Learning Dataset Repository](http://archive.ics.uci.edu/ml/datasets.html)
 
 ## Math
 
