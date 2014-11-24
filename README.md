@@ -433,6 +433,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [How to Write a Lisp Interpreter in Python](http://norvig.com/lispy.html)
 - [Python Practice Book](http://anandology.com/python-practice-book/index.html)
 
+## R
+
+- [Starting data analysis/wrangling with R: Things I wish I'd been told](http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/)
+
 ## Reactive Programming
 
 - [The Introduction to Reactive Programming You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
