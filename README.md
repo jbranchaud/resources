@@ -320,6 +320,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Must Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)
 - [Metacompilers Part 1 - Build a Compiler in JavaScript](http://www.bayfronttechnologies.com/mc_tutorial.html)
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
+- [Functional Programming using JavaScript](http://scott.sauyet.com/Javascript/Talk/2014/01/FuncProgTalk/)
 
 ## jQuery
 
