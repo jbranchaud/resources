@@ -297,6 +297,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [An Opinionated Guide to Modern Java Development, Part 1](http://blog.paralleluniverse.co/2014/05/01/modern-java/)
 - [An Opinionated Guide to Modern Java Development, Part 2](http://blog.paralleluniverse.co/2014/05/08/modern-java-pt2/)
+- [Java Garbage Collection Distilled](http://mechanical-sympathy.blogspot.com/2013/07/java-garbage-collection-distilled.html)
 
 ## JavaScript
 
