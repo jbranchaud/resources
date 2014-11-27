@@ -323,6 +323,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Metacompilers Part 1 - Build a Compiler in JavaScript](http://www.bayfronttechnologies.com/mc_tutorial.html)
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
 - [Functional Programming using JavaScript](http://scott.sauyet.com/Javascript/Talk/2014/01/FuncProgTalk/)
+- [JavaScript Regular Expression Visualizer](http://jex.im/regulex/)
 
 ## jQuery
 
