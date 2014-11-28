@@ -489,6 +489,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [Testing CoffeeScript for Rails with Jasmine](http://www.derekhammer.com/2012/02/18/testing-coffeescript-for-rails-with-jasmine.html)
 - [Testing JavaScript in Rails](http://codecuriosity.com/blog/2012/09/25/testing-javascript-in-rails/)
+- [How I Sped Up Our Rails Test Suite by 267%](http://blog.codeship.com/faster-rails-tests/)
 
 ## Rust
 
