@@ -5,6 +5,10 @@ tools.
 
 *If you see something that is missing, submit a pull request!*
 
+## Contents
+
+- [3D Graphics Programming](https://github.com/jbranchaud/resources/#3d-graphics-programming)
+
 ## General
 
 - [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
