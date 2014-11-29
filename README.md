@@ -14,6 +14,7 @@ tools.
 - [AngularJS](https://github.com/jbranchaud/resources/#angularjs)
 - [Artificial Intelligence](https://github.com/jbranchaud/resources/#artificial-intelligence)
 - [Assembly](https://github.com/jbranchaud/resources/#assembly)
+- [Atom (Editor)](https://github.com/jbranchaud/resources/#atom-editor)
 
 ## General
 
