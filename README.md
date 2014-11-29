@@ -12,6 +12,7 @@ tools.
 - [Accessibility](https://github.com/jbranchaud/resources/#accessibility)
 - [API](https://github.com/jbranchaud/resources/#api)
 - [AngularJS](https://github.com/jbranchaud/resources/#angularjs)
+- [Artificial Intelligence](https://github.com/jbranchaud/resources/#artificial-intelligence)
 
 ## General
 
