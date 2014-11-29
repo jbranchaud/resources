@@ -13,6 +13,7 @@ tools.
 - [API](https://github.com/jbranchaud/resources/#api)
 - [AngularJS](https://github.com/jbranchaud/resources/#angularjs)
 - [Artificial Intelligence](https://github.com/jbranchaud/resources/#artificial-intelligence)
+- [Assembly](https://github.com/jbranchaud/resources/#assembly)
 
 ## General
 
