@@ -11,6 +11,7 @@ tools.
 - [3D Graphics Programming](https://github.com/jbranchaud/resources/#3d-graphics-programming)
 - [Accessibility](https://github.com/jbranchaud/resources/#accessibility)
 - [API](https://github.com/jbranchaud/resources/#api)
+- [AngularJS](https://github.com/jbranchaud/resources/#angularjs)
 
 ## General
 
