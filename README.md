@@ -17,6 +17,7 @@ tools.
 - [Atom (Editor)](https://github.com/jbranchaud/resources/#atom-editor)
 - [Bash](https://github.com/jbranchaud/resources/#bash)
 - [Bootstrap](https://github.com/jbranchaud/resources/#bootstrap)
+- [C](https://github.com/jbranchaud/resources/#c)
 
 ## General
 
