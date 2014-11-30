@@ -16,6 +16,7 @@ tools.
 - [Assembly](https://github.com/jbranchaud/resources/#assembly)
 - [Atom (Editor)](https://github.com/jbranchaud/resources/#atom-editor)
 - [Bash](https://github.com/jbranchaud/resources/#bash)
+- [Bootstrap](https://github.com/jbranchaud/resources/#bootstrap)
 
 ## General
 
