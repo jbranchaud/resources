@@ -45,6 +45,7 @@ tools.
 - [Guides: A guide for programming in style](https://github.com/thoughtbot/guides)
 - [IntroLearn: Programming](http://introlearn.com/programming-main.php)
 - [Structure and Interpretation of Computer Programs](http://xuanji.appspot.com/isicp/index.html)
+- [Great Works in Programming Languages](http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
 
 ## 3D Graphics Programming
 
