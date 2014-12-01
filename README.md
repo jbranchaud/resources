@@ -241,7 +241,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 ## Functional Programming
 
-- [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
+- [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt) [slides]
 
 ## Game Programming
 
