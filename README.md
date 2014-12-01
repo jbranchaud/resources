@@ -239,6 +239,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Tips for Authoring Fast-Loading HTML Pages](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Tips_for_authoring_fast-loading_HTML_pages)
 - [Delivering the Goods - Paul Irish](https://www.youtube.com/watch?v=R8W_6xWphtw) [video]
 
+## Functional Programming
+
+- [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
+
 ## Game Programming
 
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/)
