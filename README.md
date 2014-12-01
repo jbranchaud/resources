@@ -382,6 +382,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Simple CPU](http://www.simplecpu.com/Binary.html)
 - [Let's Build a Browser Engine](http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 - [Bootstrapping a Simple Compiler From Nothing](http://rano.org/bcompiler.html)
+- [Sorting Algorithm Animations](http://www.sorting-algorithms.com/)
 
 ## Node.js
 
