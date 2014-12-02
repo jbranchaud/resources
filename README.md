@@ -387,6 +387,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Let's Build a Browser Engine](http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 - [Bootstrapping a Simple Compiler From Nothing](http://rano.org/bcompiler.html)
 - [Sorting Algorithm Animations](http://www.sorting-algorithms.com/)
+- [Visualizing Data Structures and Algorithms](http://visualgo.net/)
 
 ## Node.js
 
