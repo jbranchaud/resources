@@ -351,6 +351,11 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 
+## Julia
+
+- [Official Manual](http://docs.julialang.org/en/release-0.3/manual/introduction/)
+- [Julia and lambdas and maps, oh my!](https://blog.psychomario.com/2014/12/05/Julia-and-lambdas-and-maps-oh-my/)
+
 ## LESS
 
 - [LESSCSS.org](http://lesscss.org/)
