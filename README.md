@@ -262,6 +262,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn//gitmagic/)
 - [A Practical Git Introduction](http://mrchlblng.me/2014/09/practical-git-introduction/)
 - [Introduction to Git and GitHub](http://www.gotealeaf.com/books/git)
+- [Git Ready](http://gitready.com/)
 
 *I dump all things git-related in
 [man-git](https://github.com/jbranchaud/man-git).*
