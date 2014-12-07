@@ -273,6 +273,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Go: a simple programming environment](http://vimeo.com/69237265) [video]
 - [Get Your Development Team Started With Go](https://www.digitalocean.com/company/blog/get-your-development-team-started-with-go/)
 - [Concurrency is Not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
+- [When in Go, Do as Gophers Do](http://talks.golang.org/2014/readability.slide#1)
 
 ## Haskell
 
