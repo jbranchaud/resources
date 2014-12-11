@@ -10,6 +10,7 @@ tools.
 - [General](https://github.com/jbranchaud/resources/#general)
 - [3D Graphics Programming](https://github.com/jbranchaud/resources/#3d-graphics-programming)
 - [Accessibility](https://github.com/jbranchaud/resources/#accessibility)
+- [Android](https://github.com/jbranchaud/resources/#android)
 - [API](https://github.com/jbranchaud/resources/#api)
 - [AngularJS](https://github.com/jbranchaud/resources/#angularjs)
 - [Artificial Intelligence](https://github.com/jbranchaud/resources/#artificial-intelligence)
