@@ -11,8 +11,8 @@ tools.
 - [3D Graphics Programming](https://github.com/jbranchaud/resources/#3d-graphics-programming)
 - [Accessibility](https://github.com/jbranchaud/resources/#accessibility)
 - [Android](https://github.com/jbranchaud/resources/#android)
-- [API](https://github.com/jbranchaud/resources/#api)
 - [AngularJS](https://github.com/jbranchaud/resources/#angularjs)
+- [API](https://github.com/jbranchaud/resources/#api)
 - [Artificial Intelligence](https://github.com/jbranchaud/resources/#artificial-intelligence)
 - [Assembly](https://github.com/jbranchaud/resources/#assembly)
 - [Atom (Editor)](https://github.com/jbranchaud/resources/#atom-editor)
@@ -60,10 +60,6 @@ tools.
 
 - [Guide to Getting Started with Android for Engineers and Designers](https://github.com/nstevens/androidguide/wiki)
 
-## API
-
-- [HTTP API Design Guide](https://github.com/interagent/http-api-design)
-
 ## AngularJS
 
 - [AngularJS.org Tutorial](https://docs.angularjs.org/tutorial)
@@ -77,6 +73,10 @@ tools.
 
 *many of these resource come from [this
 post](http://michaelcrump.net/angularjs-learning-materials)*
+
+## API
+
+- [HTTP API Design Guide](https://github.com/interagent/http-api-design)
 
 ## Artificial Intelligence
 
