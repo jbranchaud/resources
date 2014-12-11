@@ -119,6 +119,11 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Common C++ Gotchas](http://vickychijwani.me/cpp-gotchas/)
 - [Functional Programming in C++](http://gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php)
 
+## Category Theory
+
+- [An Introduction to Category Theory](http://ncatlab.org:8080/nlab/show/category+theory)
+- [Category Theory by Tom LaGatta](https://www.youtube.com/watch?v=o6L6XeNdd_k) [video]
+
 ## Clojure
 
 - [Functional Programming in Clojure](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html)
