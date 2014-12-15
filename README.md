@@ -47,6 +47,7 @@ tools.
 - [IntroLearn: Programming](http://introlearn.com/programming-main.php)
 - [Structure and Interpretation of Computer Programs](http://xuanji.appspot.com/isicp/index.html)
 - [Great Works in Programming Languages](http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
+- [Programming and Programming Languages](http://papl.cs.brown.edu/2014/index.html)
 
 ## 3D Graphics Programming
 
