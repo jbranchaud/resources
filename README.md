@@ -123,6 +123,8 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [Common C++ Gotchas](http://vickychijwani.me/cpp-gotchas/)
 - [Functional Programming in C++](http://gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php)
+- [Five Popular Myths about C++, Part 1](http://isocpp.org/blog/2014/12/myths-1)
+- [Five Popular Myths about C++, Part 2](http://isocpp.org/blog/2014/12/myths-2)
 
 ## Category Theory
 
