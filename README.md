@@ -405,6 +405,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Bootstrapping a Simple Compiler From Nothing](http://rano.org/bcompiler.html)
 - [Sorting Algorithm Animations](http://www.sorting-algorithms.com/)
 - [Visualizing Data Structures and Algorithms](http://visualgo.net/)
+- [Game Theory](http://plato.stanford.edu/entries/game-theory/)
 
 ## Node.js
 
