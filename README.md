@@ -20,6 +20,7 @@ tools.
 - [Bootstrap](https://github.com/jbranchaud/resources/#bootstrap)
 - [C](https://github.com/jbranchaud/resources/#c)
 - [C++](https://github.com/jbranchaud/resources/#c++)
+- [Category Theory](https://github.com/jbranchaud/resources/#category-theory)
 
 ## General
 
