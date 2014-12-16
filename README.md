@@ -19,6 +19,7 @@ tools.
 - [Bash](https://github.com/jbranchaud/resources/#bash)
 - [Bootstrap](https://github.com/jbranchaud/resources/#bootstrap)
 - [C](https://github.com/jbranchaud/resources/#c)
+- [C++](https://github.com/jbranchaud/resources/#c++)
 
 ## General
 
