@@ -51,6 +51,7 @@ tools.
 - [Great Works in Programming Languages](http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
 - [Programming and Programming Languages](http://papl.cs.brown.edu/2014/index.html)
 - [UX Checklist](http://uxchecklist.github.io/)
+- [Web Designer Checklist](http://webdesignerschecklist.com/)
 
 ## 3D Graphics Programming
 
