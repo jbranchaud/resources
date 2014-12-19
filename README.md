@@ -52,6 +52,7 @@ tools.
 - [Programming and Programming Languages](http://papl.cs.brown.edu/2014/index.html)
 - [UX Checklist](http://uxchecklist.github.io/)
 - [Web Designer Checklist](http://webdesignerschecklist.com/)
+- [Usability Checklist](https://userium.com/)
 
 ## 3D Graphics Programming
 
