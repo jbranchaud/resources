@@ -53,6 +53,7 @@ tools.
 - [UX Checklist](http://uxchecklist.github.io/)
 - [Web Designer Checklist](http://webdesignerschecklist.com/)
 - [Usability Checklist](https://userium.com/)
+- [Interaction Design Checklist](http://ixdchecklist.com/)
 
 ## 3D Graphics Programming
 
