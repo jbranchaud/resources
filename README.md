@@ -394,6 +394,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Hacker's Guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - [UCIrvine Machine Learning Dataset Repository](http://archive.ics.uci.edu/ml/datasets.html)
+- [Machine Learning Course from Tom Mitchell](http://www.cs.cmu.edu/~tom/10701_sp11/)
 
 ## Math
 
