@@ -5,6 +5,7 @@
 ## General
 
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/)
+- [Rooms and Mazes: A Procedural Dungeon Generator](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)
 
 ## JavaScript Game Development
 
