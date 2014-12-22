@@ -173,6 +173,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ### Flexbox
 
 - [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox Adventures](http://chriswrightdesign.com/experiments/flexbox-adventures/)
 - [Tinkering With Flexbox](http://css-tricks.com/video-screencasts/131-tinkering-flexbox/)
 - [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
 
