@@ -380,6 +380,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [Official Manual](http://docs.julialang.org/en/release-0.3/manual/introduction/)
 - [Julia and lambdas and maps, oh my!](https://blog.psychomario.com/2014/12/05/Julia-and-lambdas-and-maps-oh-my/)
+- [Julia by Example](http://www.scolvin.com/juliabyexample/)
 
 ## LESS
 
