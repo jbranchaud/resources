@@ -371,6 +371,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
 - [Functional Programming using JavaScript](http://scott.sauyet.com/Javascript/Talk/2014/01/FuncProgTalk/)
 - [JavaScript Regular Expression Visualizer](http://jex.im/regulex/)
+- [JavaScript Equality Table](http://dorey.github.io/JavaScript-Equality-Table/)
 
 ## jQuery
 
