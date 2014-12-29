@@ -393,6 +393,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Learn Lisp the Hard Way](http://learnlispthehardway.org/book/)
 - [Ninety-Nine Lisp Problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
 - [It is not hard to edit Lisp code](http://yoo2080.wordpress.com/2014/07/20/it-is-not-hard-to-edit-lisp-code/)
+- [Awesome Common Lisp](https://github.com/kozross/awesome-cl)
 
 ## Machine Learning
 
