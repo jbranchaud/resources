@@ -426,6 +426,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Sorting Algorithm Animations](http://www.sorting-algorithms.com/)
 - [Visualizing Data Structures and Algorithms](http://visualgo.net/)
 - [Game Theory](http://plato.stanford.edu/entries/game-theory/)
+- [Fundamentals of Compression](http://bertolami.com/index.php?engine=blog&content=posts&detail=fundamentals-of-data-compression)
 
 ## Nim
 
