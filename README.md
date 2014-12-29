@@ -54,6 +54,7 @@ tools.
 - [Web Designer Checklist](http://webdesignerschecklist.com/)
 - [Usability Checklist](https://userium.com/)
 - [Interaction Design Checklist](http://ixdchecklist.com/)
+- [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 
 ## 3D Graphics Programming
 
