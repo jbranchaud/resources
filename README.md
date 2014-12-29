@@ -427,6 +427,12 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Visualizing Data Structures and Algorithms](http://visualgo.net/)
 - [Game Theory](http://plato.stanford.edu/entries/game-theory/)
 
+## Nim
+
+- [Nim Tutorial](http://nim-lang.org/tut1.html)
+
+*formerly known as Nimrod*
+
 ## Node.js
 
 - [The Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node)
