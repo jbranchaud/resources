@@ -543,6 +543,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [How I Start: Ruby with Steve Klabnik](http://www.howistart.org/posts/ruby/1)
 - [Awesome Ruby](https://github.com/markets/awesome-ruby)
 - [Ruby Bookmarks](https://github.com/dreikanter/ruby-bookmarks)
+- [5 Killer Ruby Talks of 2014](http://przemekmroczek.com/post/106717411075/5-killer-ruby-talks-of-2014)
 
 ## Ruby on Rails
 
