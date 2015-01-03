@@ -443,6 +443,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [The Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node)
 - [Node.js in Production](http://blog.carbonfive.com/2014/06/02/node-js-in-production/)
 - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
+- [Top 10 Mistakes Node.js Developers Make](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make)
 
 ## OAuth
 
