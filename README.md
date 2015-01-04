@@ -301,6 +301,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Get Your Development Team Started With Go](https://www.digitalocean.com/company/blog/get-your-development-team-started-with-go/)
 - [Concurrency is Not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
 - [When in Go, Do as Gophers Do](http://talks.golang.org/2014/readability.slide#1)
+- [Advanced Go Concurrency Patterns](http://talks.golang.org/2013/advconc.slide#1)
 
 ## Haskell
 
