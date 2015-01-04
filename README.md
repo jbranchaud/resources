@@ -433,6 +433,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Game Theory](http://plato.stanford.edu/entries/game-theory/)
 - [Fundamentals of Compression](http://bertolami.com/index.php?engine=blog&content=posts&detail=fundamentals-of-data-compression)
 - [DIY: Make Your Own Programming Language](http://blog.ppelgren.se/2015-01-03/DIY-Make-Your-Own-Programming-language/)
+- [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 
 ## Nim
 
