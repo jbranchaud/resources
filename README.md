@@ -498,6 +498,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
 - [DIY: Make Your Own Programming Language](http://blog.ppelgren.se/2015-01-03/DIY-Make-Your-Own-Programming-language/)
 - [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
+- [Write You a Haskell: Building a modern functional compiler from first principles](http://dev.stephendiehl.com/fun/)
 
 ## Prolog
 
