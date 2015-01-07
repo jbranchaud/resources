@@ -383,6 +383,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [JavaScript Equality Table](http://dorey.github.io/JavaScript-Equality-Table/)
 - [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 - [JS Books](http://jsbooks.revolunet.com/)
+- [ECMAScript 6 Compatibility Table](http://kangax.github.io/compat-table/es6/)
 
 ## jQuery
 
