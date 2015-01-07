@@ -162,6 +162,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Colors: A nicer color palette for the web](http://clrs.cc/)
 - [Flat UI Colors](http://flatuicolors.com/)
 - [Basic Color Theory for Programmers](http://polymathprogrammer.com/2008/08/04/basic-colour-theory-for-programmers/)
+- [Generating Omnichromatic Images](http://blog.jverkamp.com/2015/01/01/generating-omnichromatic-images/)
 
 ## Cryptography
 
