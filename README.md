@@ -163,6 +163,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Flat UI Colors](http://flatuicolors.com/)
 - [Basic Color Theory for Programmers](http://polymathprogrammer.com/2008/08/04/basic-colour-theory-for-programmers/)
 
+## Cryptography
+
+- [A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.](https://github.com/MaciejCzyzewski/retter)
+
 ## CSS
 
 - [CSS - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
