@@ -128,6 +128,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [What Every C Programmer Should Know About Undefined Behavior](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html#)
 - [Building C Projects](http://nethack4.org/blog/building-c.html)
 - [Compiler Design in C](http://www.holub.com/software/compiler.design.in.c.html)
+- [A Guide to Undefined Behavior in C and C++](http://blog.regehr.org/archives/213)
 
 ## C++
 
