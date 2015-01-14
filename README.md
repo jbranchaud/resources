@@ -390,6 +390,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 - [JS Books](http://jsbooks.revolunet.com/)
 - [ECMAScript 6 Compatibility Table](http://kangax.github.io/compat-table/es6/)
+- [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
 ## jQuery
 
