@@ -450,6 +450,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Fundamentals of Compression](http://bertolami.com/index.php?engine=blog&content=posts&detail=fundamentals-of-data-compression)
 - [Scsh Reference Manual](http://scsh.net/docu/html/man.html)
 - [Awk in 20 Minutes](http://ferd.ca/awk-in-20-minutes.html)
+- [Open Data Structures](http://opendatastructures.org/)
 
 ## Nim
 
