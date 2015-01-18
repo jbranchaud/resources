@@ -451,6 +451,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Scsh Reference Manual](http://scsh.net/docu/html/man.html)
 - [Awk in 20 Minutes](http://ferd.ca/awk-in-20-minutes.html)
 - [Open Data Structures](http://opendatastructures.org/)
+- [Alligator Eggs: A Puzzle Game](http://worrydream.com/AlligatorEggs/)
 
 ## Nim
 
