@@ -56,6 +56,7 @@ tools.
 - [Interaction Design Checklist](http://ixdchecklist.com/)
 - [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 - [Frontend Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 ## 3D Graphics Programming
 
