@@ -538,6 +538,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [How to Write a Lisp Interpreter in Python](http://norvig.com/lispy.html)
 - [Python Practice Book](http://anandology.com/python-practice-book/index.html)
 - [The Invent with Python Bookshelf](http://inventwithpython.com/bookshelf/)
+- [Python Tips and Traps](https://www.airpair.com/python/posts/python-tips-and-traps)
 
 ## R
 
