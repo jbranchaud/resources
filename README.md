@@ -338,6 +338,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Images and Photos
 
 - [Unsplash: High Resolution Creative Commons Photos](https://unsplash.com/)
+- [Fred's ImageMagick Scripts](http://fmwconcepts.com/imagemagick/)
 
 ## Io
 
