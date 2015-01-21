@@ -131,6 +131,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Compiler Design in C](http://www.holub.com/software/compiler.design.in.c.html)
 - [A Guide to Undefined Behavior in C and C++](http://blog.regehr.org/archives/213)
 - [What Every C Programmer Should Know About Undefined Behavior](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html?m=1)
+- [How to Get Started with the LLVM C API](https://pauladamsmith.com/blog/2015/01/how-to-get-started-with-llvm-c-api.html)
 
 ## C++
 
