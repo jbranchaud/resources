@@ -431,6 +431,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Math
 
 - [BetterExplained Math Cheatsheets](http://betterexplained.com/cheatsheet/)
+- [An Intuitive Guide to Linear Algebra](http://betterexplained.com/articles/linear-algebra-guide/)
 
 ## Markdown
 
