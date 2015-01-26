@@ -277,6 +277,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 ## Functional Programming
 
+- [A Practical Introduction to Functional Programming](http://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 - [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt) [slides]
 
 ## Game Programming
