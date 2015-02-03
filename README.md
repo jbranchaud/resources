@@ -245,6 +245,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 ## Ember
 
+- [Ember.js Official Guides](http://emberjs.com/guides/)
 - [Vic Ramon's Ember Tutorial](http://ember.vicramon.com/)
 
 ## Flask
