@@ -445,6 +445,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Meteor.js
 
 - [Your First Meteor Application](https://leanpub.com/meteortutorial/read)
+- [Getting Started with Meteor.js](http://joshowens.me/getting-started-with-meteor-js/)
 
 ## Misc
 
