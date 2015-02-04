@@ -22,6 +22,7 @@ tools.
 - [C++](https://github.com/jbranchaud/resources/#c++)
 - [Category Theory](https://github.com/jbranchaud/resources/#category-theory)
 - [Clojure](https://github.com/jbranchaud/resources/#clojure)
+- [ClojureScript](https://github.com/jbranchaud/resources/#clojurescript)
 
 ## General
 
