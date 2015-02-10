@@ -114,6 +114,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Google's Shell Style Guide](https://google-styleguide.googlecode.com/svn/trunk/shell.xml)
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls)
 - [What I learned from other's shell scripts](http://www.fizerkhan.com/blog/posts/What-I-learned-from-other-s-shell-scripts.html)
+- [Filenames and Pathnames in Shell: How to do it correctly](http://www.dwheeler.com/essays/filenames-in-shell.html)
 
 ## Bootstrap
 
