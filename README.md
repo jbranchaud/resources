@@ -465,6 +465,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Awk in 20 Minutes](http://ferd.ca/awk-in-20-minutes.html)
 - [Open Data Structures](http://opendatastructures.org/)
 - [Alligator Eggs: A Puzzle Game](http://worrydream.com/AlligatorEggs/)
+- [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/#)
 
 ## Nim
 
