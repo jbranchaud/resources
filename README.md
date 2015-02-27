@@ -556,6 +556,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Python Practice Book](http://anandology.com/python-practice-book/index.html)
 - [The Invent with Python Bookshelf](http://inventwithpython.com/bookshelf/)
 - [Python Tips and Traps](https://www.airpair.com/python/posts/python-tips-and-traps)
+- [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
 
 ## R
 
