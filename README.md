@@ -574,6 +574,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Getting to Know Flux, the React.js Architecture](http://scotch.io/tutorials/javascript/getting-to-know-flux-the-react-js-architecture)
 - [Build a Simple Shopping Cart Using React.js and Flux](http://scotch.io/tutorials/javascript/creating-a-simple-shopping-cart-with-react-js-and-flux)
 - [Awesome React](https://github.com/enaqx/awesome-react)
+- [React JS Tutorial and Guide to the Gotchas](https://zapier.com/engineering/react-js-tutorial-guide-gotchas/)
 
 ## Ruby
 
