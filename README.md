@@ -532,6 +532,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 ## Programming Languages
 
+- [Hyperpolyglot](http://hyperpolyglot.org/)
 - [7 Part Implement Your Own Programming Language Guide](https://github.com/kvalle/diy-lisp)
 - [The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
 - [DIY: Make Your Own Programming Language](http://blog.ppelgren.se/2015-01-03/DIY-Make-Your-Own-Programming-language/)
