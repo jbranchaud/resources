@@ -24,6 +24,7 @@ tools.
 - [Clojure](https://github.com/jbranchaud/resources/#clojure)
 - [ClojureScript](https://github.com/jbranchaud/resources/#clojurescript)
 - [CoffeeScript](https://github.com/jbranchaud/resources/#coffeescript)
+- [Colors](https://github.com/jbranchaud/resources/#colors)
 
 ## General
 
