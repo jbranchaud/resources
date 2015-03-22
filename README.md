@@ -545,6 +545,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [Ninety-Nine Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
 - [Prolog Programming Language](http://groups.engin.umd.umich.edu/CIS/course.des/cis400/prolog/prolog.html)
+- [Learn Prolog Now](http://www.learnprolognow.org/lpnpage.php?pageid=online)
 
 ## Python
 
