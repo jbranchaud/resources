@@ -25,6 +25,7 @@ tools.
 - [ClojureScript](https://github.com/jbranchaud/resources/#clojurescript)
 - [CoffeeScript](https://github.com/jbranchaud/resources/#coffeescript)
 - [Colors](https://github.com/jbranchaud/resources/#colors)
+- [Cryptography](https://github.com/jbranchaud/resources/#cryptography)
 
 ## General
 
