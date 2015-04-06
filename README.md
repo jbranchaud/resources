@@ -101,6 +101,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Assembly
 
 - [Whirlwind Tour of ARM Assembly](http://www.coranac.com/tonc/text/asm.htm)
+- [x86 Disassembly](http://en.wikibooks.org/wiki/X86_Disassembly)
 
 ## Atom (Editor)
 
