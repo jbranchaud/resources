@@ -428,6 +428,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Awesome Common Lisp](https://github.com/kozross/awesome-cl)
 - [Paul Graham's On Lisp](http://dunsmor.com/lisp/onlisp/onlisp.html)
 - [Modern On Lisp Companion](https://github.com/DalekBaldwin/on-lisp)
+- [A Brief Guide to the Common Lisp Object System](http://www.aiai.ed.ac.uk/~jeff/clos-guide.html)
 
 ## Machine Learning
 
