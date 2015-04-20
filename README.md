@@ -415,6 +415,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Julia and lambdas and maps, oh my!](https://blog.psychomario.com/2014/12/05/Julia-and-lambdas-and-maps-oh-my/)
 - [Julia by Example](http://www.scolvin.com/juliabyexample/)
 
+## JVM
+
+- [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
+
 ## LESS
 
 - [LESSCSS.org](http://lesscss.org/)
