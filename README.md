@@ -693,6 +693,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 ## Vim
 
+- [Vim Tips Wiki](http://vim.wikia.com/wiki/Vim_Tips_Wiki)
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 - [Best of Vim Tips](http://zzapper.co.uk/vimtips.html)
 - [Vim Regex](http://vimregex.com/)
