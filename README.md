@@ -704,6 +704,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Learning Vim in 2014: Getting More from Vim with Plugins](http://benmccormick.org/2014/07/21/learning-vim-in-2014-getting-more-from-vim-with-plugins/)
 - [Vim After 11 Years](http://statico.github.io/vim.html)
 - [Vim Cheat Sheet](http://vim.rtorr.com/)
+- [Seven Habits of Effective Text Editing](http://www.moolenaar.net/habits.html)
 
 ## Web Apps
 
