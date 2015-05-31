@@ -508,6 +508,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## OCaml
 
 - [Unix System Programming in OCaml](https://ocaml.github.io/ocamlunix/)
+- [OCaml for the Skeptical](http://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html)
 
 ## OpenGL
 
