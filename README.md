@@ -425,6 +425,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [LESSCSS.org](http://lesscss.org/)
 - [LESS Language Features](http://lesscss.org/features/)
 
+## Linux
+
+- [Linux Insides](https://github.com/0xAX/linux-insides)
+
 ## Lisp
 
 - [Learn Lisp the Hard Way](http://learnlispthehardway.org/book/)
