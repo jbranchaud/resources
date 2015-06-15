@@ -322,6 +322,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Concurrency is Not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
 - [When in Go, Do as Gophers Do](http://talks.golang.org/2014/readability.slide#1)
 - [Advanced Go Concurrency Patterns](http://talks.golang.org/2013/advconc.slide#1)
+- [Ten Useful Techniques in Go](http://arslan.io/ten-useful-techniques-in-go)
 
 ## Haskell
 
