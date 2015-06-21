@@ -62,6 +62,7 @@ tools.
 - [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 - [Frontend Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [Git and GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 ## 3D Graphics Programming
 
