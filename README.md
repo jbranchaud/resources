@@ -163,6 +163,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## ClojureScript
 
 - [ClojureScript Tutorial](http://www.niwi.be/cljs-workshop/)
+- [CLJS-Bootstrap](http://kanaka.github.io/cljs-bootstrap/)
 
 ## CoffeeScript
 
