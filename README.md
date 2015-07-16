@@ -536,6 +536,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [Google Code Jam archives](https://code.google.com/codejam/archive.html)
 - [Project Euler](http://projecteuler.net/)
+- [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 - [/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer)
 - [Coffee Time Challenges](http://www.datagenetics.com/blog/june22014/index.html)
 - [CodeChef](http://www.codechef.com/)
