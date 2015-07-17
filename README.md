@@ -598,6 +598,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [React JS Tutorial and Guide to the Gotchas](https://zapier.com/engineering/react-js-tutorial-guide-gotchas/)
 - [React.js Stuff](https://github.com/mindreframer/reactjs-stuff)
 - [3 Ways to Integrate Ruby on Rails + React + Flux](http://www.openmindedinnovations.com/blogs/3-ways-to-integrate-ruby-on-rails-react-flux)
+- [React Native Playground](https://rnplay.org/)
 
 ## Ruby
 
