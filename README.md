@@ -160,6 +160,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Functional Programming in Clojure](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html)
 - [Understanding Clojure's Persistent Vectors, pt. 1](http://hypirion.com/musings/understanding-persistent-vector-pt-1) ([pt. 2](http://hypirion.com/musings/understanding-persistent-vector-pt-2), [pt. 3](http://hypirion.com/musings/understanding-persistent-vector-pt-3))
 - [Clojure Cheatsheet](http://clojure.org/cheatsheet)
+- [Clojure for the Brave and True](http://www.braveclojure.com/)
 
 ## ClojureScript
 
