@@ -161,6 +161,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Understanding Clojure's Persistent Vectors, pt. 1](http://hypirion.com/musings/understanding-persistent-vector-pt-1) ([pt. 2](http://hypirion.com/musings/understanding-persistent-vector-pt-2), [pt. 3](http://hypirion.com/musings/understanding-persistent-vector-pt-3))
 - [Clojure Cheatsheet](http://clojure.org/cheatsheet)
 - [Clojure for the Brave and True](http://www.braveclojure.com/)
+- [Clojure From The Ground Up](https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome)
 
 ## ClojureScript
 
