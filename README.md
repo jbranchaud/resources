@@ -63,6 +63,7 @@ tools.
 - [Frontend Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [Git and GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
 
 ## 3D Graphics Programming
 
