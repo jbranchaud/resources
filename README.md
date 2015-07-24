@@ -413,6 +413,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [JS Books](http://jsbooks.revolunet.com/)
 - [ECMAScript 6 Compatibility Table](http://kangax.github.io/compat-table/es6/)
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+- [The Refactoring Tales](http://javascriptplayground.com/the-refactoring-tales/)
 
 ## jQuery
 
