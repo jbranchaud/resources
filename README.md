@@ -533,6 +533,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [The Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
 
+## Postgres
+
+- [Postgres Guide](http://www.postgresguide.com/)
+
 ## Product Design
 
 - [Building SoundCloud](http://www.michaelevensen.com/building-soundcloud/introduction/)
