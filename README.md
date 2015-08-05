@@ -629,6 +629,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Awesome Ruby](https://github.com/markets/awesome-ruby)
 - [Ruby Bookmarks](https://github.com/dreikanter/ruby-bookmarks)
 - [5 Killer Ruby Talks of 2014](http://przemekmroczek.com/post/106717411075/5-killer-ruby-talks-of-2014)
+- [Fast Ruby](https://github.com/JuanitoFatas/fast-ruby)
 
 ## Ruby on Rails
 
