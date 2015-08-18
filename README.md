@@ -165,6 +165,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Clojure for the Brave and True](http://www.braveclojure.com/)
 - [Clojure From The Ground Up](https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome)
 - [The Caves of Clojure](http://stevelosh.com/blog/2012/07/caves-of-clojure-01/)
+- [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 
 ## ClojureScript
 
