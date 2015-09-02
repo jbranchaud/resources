@@ -144,6 +144,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [What Every C Programmer Should Know About Undefined Behavior](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html?m=1)
 - [How to Get Started with the LLVM C API](https://pauladamsmith.com/blog/2015/01/how-to-get-started-with-llvm-c-api.html)
 - [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) [pdf]
+- [Everything You Need To Know To Write Good C Code](https://github.com/btrask/stronglink/blob/master/SUBSTANCE.md)
 
 ## C++
 
