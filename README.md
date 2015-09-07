@@ -533,6 +533,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [Think OS: A Brief Introduction to Operating Systems](http://www.greenteapress.com/thinkos/html/index.html)
 - [The Little Book about OS Development](http://littleosbook.github.io/book.pdf) [pdf]
+- [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## Physics
 
