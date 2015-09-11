@@ -322,6 +322,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [A Practical Git Introduction](http://mrchlblng.me/2014/09/practical-git-introduction/)
 - [Introduction to Git and GitHub](http://www.gotealeaf.com/books/git)
 - [Git Ready](http://gitready.com/)
+- [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 
 *I dump all things git-related in
 [man-git](https://github.com/jbranchaud/man-git).*
