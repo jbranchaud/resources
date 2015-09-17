@@ -653,6 +653,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Good open source Ruby on Rails projects to learn from?](http://stackoverflow.com/questions/248371/good-open-source-ruby-on-rails-projects-to-learn-from)
 - [Simple RailsCasts projects to learn from](https://github.com/railscasts)
 - [Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
+- [Awesome Rails Gems](https://github.com/hothero/awesome-rails-gem)
 
 ### Testing
 
