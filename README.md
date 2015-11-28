@@ -65,6 +65,7 @@ tools.
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
 - [CS For All](http://www.cs.hmc.edu/csforall/)
+- [From Nand to Tetris: Building a Modern Computer From First Principles](http://www.nand2tetris.org/)
 
 ## 3D Graphics Programming
 
