@@ -180,6 +180,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Modern ClojureScript](https://github.com/magomimmo/modern-cljs)
 - [Tetris in ClojureScript](http://shaunlebron.github.io/t3tr0s-slides)
 - [T3TR0S](https://github.com/imalooney/t3tr0s)
+- [Om Next Quick Start](https://github.com/omcljs/om/wiki/Quick-Start-%28om.next%29)
 - [Introduction To Reagent](https://reagent-project.github.io/)
 
 ## CoffeeScript
