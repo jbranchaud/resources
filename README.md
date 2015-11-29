@@ -174,6 +174,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## ClojureScript
 
 - [ClojureScript Syntax in 15 Minutes](https://github.com/shaunlebron/ClojureScript-Syntax-in-15-minutes)
+- [ClojureScript Quick Start](https://github.com/clojure/clojurescript/wiki/Quick-Start)
 - [ClojureScript Tutorial](http://www.niwi.be/cljs-workshop/)
 - [CLJS-Bootstrap](http://kanaka.github.io/cljs-bootstrap/)
 - [Modern ClojureScript](https://github.com/magomimmo/modern-cljs)
