@@ -178,6 +178,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [CLJS-Bootstrap](http://kanaka.github.io/cljs-bootstrap/)
 - [Modern ClojureScript](https://github.com/magomimmo/modern-cljs)
 - [Tetris in ClojureScript](http://shaunlebron.github.io/t3tr0s-slides)
+- [T3TR0S](https://github.com/imalooney/t3tr0s)
 
 ## CoffeeScript
 
