@@ -147,6 +147,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) [pdf]
 - [Everything You Need To Know To Write Good C Code](https://github.com/btrask/stronglink/blob/master/SUBSTANCE.md)
 - [Object-Oriented Techniques in C](http://dmitryfrank.com/articles/oop_in_c)
+- [Bit Hacks](http://www.graphics.stanford.edu/~seander/bithacks.html)
 
 ## C++
 
