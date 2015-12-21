@@ -8,7 +8,7 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 
 ---
 
-`#all?` (Ruby)
+[`#all?`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-all-3F) (Ruby)
 
 > Passes each element of the collection to the given block. The method
 > returns true if the block never returns `false` or `nil`.
@@ -20,7 +20,7 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 => false
 ```
 
-`.every` (JavaScript)
+[`.every`](https://lodash.com/docs#every) (JavaScript)
 
 > Checks if predicate returns truthy for **all** elements of collection.
 
