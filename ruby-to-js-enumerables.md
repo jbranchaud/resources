@@ -4,7 +4,7 @@ Every language needs to have a different set of names for the
 functions/methods that they use with collections. This document seeks to
 draw parallels between similar functions in [Ruby's Enumerable
 module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
-[LoDash library](https://lodash.com/):
+[LoDash library](https://lodash.com/).
 
 ---
 
