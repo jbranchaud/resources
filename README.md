@@ -203,6 +203,11 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Compilers
 
 - [An Incremental Approach To Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+- [Compiler Design in C](http://www.holub.com/software/compiler.design.in.c.html)
+- [Metacompilers Part 1 - Build a Compiler in JavaScript](http://www.bayfronttechnologies.com/mc_tutorial.html)
+- [Bootstrapping a Simple Compiler From Nothing](http://rano.org/bcompiler.html)
+- [Learn C and Build Your Own Lisp](http://www.buildyourownlisp.com/) ([github](https://github.com/orangeduck/BuildYourOwnLisp))
+- [Write You a Haskell: Building a modern functional compiler from first principles](http://dev.stephendiehl.com/fun/)
 
 ## Cryptography
 
