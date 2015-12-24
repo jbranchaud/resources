@@ -56,3 +56,27 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 > _.some([1,2,3], function(item) { return item % 2 === 0; });
 => true
 ```
+
+---
+
+[`#chunk`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-chunk)
+(Ruby)
+
+> Enumerates over the items, chunking them together based on the return
+> value of the block. Consecutive elements which return the same block
+> value are chunked together.
+
+```ruby
+> [1,2,3].chunk { |item| item > 0 }.to_a
+=> [[true, [1, 2, 3]]]
+> (1..10).chunk { |item| item % 3 == 0 }.to_a
+=> [[false, [1, 2]],
+ [true, [3]],
+ [false, [4, 5]],
+ [true, [6]],
+ [false, [7, 8]],
+ [true, [9]],
+ [false, [10]]]
+```
+
+??? (JavaScript)
