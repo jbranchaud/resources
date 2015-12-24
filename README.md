@@ -202,6 +202,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 ## Compilers
 
+- [Want To Write A Compiler? Just Read These Two Papers](http://prog21.dadgum.com/30.html)
 - [An Incremental Approach To Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 - [Compiler Design in C](http://www.holub.com/software/compiler.design.in.c.html)
 - [Metacompilers Part 1 - Build a Compiler in JavaScript](http://www.bayfronttechnologies.com/mc_tutorial.html)
