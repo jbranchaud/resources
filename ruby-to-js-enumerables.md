@@ -104,7 +104,7 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 => [1, 4, 9]
 ```
 
-[`map`]() (JavaScript)
+[`map`](https://lodash.com/docs#map) (JavaScript)
 
 > Creates an array of values by running each element in collection through
 > iteratee.
