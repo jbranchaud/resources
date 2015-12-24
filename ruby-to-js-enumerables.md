@@ -80,3 +80,30 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 ```
 
 ??? (JavaScript)
+
+---
+
+[`#collect`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-collect)
+(Ruby)
+
+> Returns a new array with the results of running block once for every
+> element in enum.
+
+```ruby
+> [1,2,3].collect { |item| item + 1 }
+=> [2, 3, 4]
+> [1,2,3].collect { |item| item * item }
+=> [1, 4, 9]
+```
+
+[`map`]() (JavaScript)
+
+> Creates an array of values by running each element in collection through
+> iteratee.
+
+```javascript
+> _.map([1,2,3], function(item) { return item + 1; });
+=> [2, 3, 4]
+> _.map([1,2,3], function(item) { return item * item; });
+=> [1, 4, 9]
+```
