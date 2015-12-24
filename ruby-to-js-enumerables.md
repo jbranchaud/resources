@@ -102,6 +102,9 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 > Returns a new array with the results of running block once for every
 > element in enum.
 
+*also known as
+[`#map`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-map)*
+
 ```ruby
 > [1,2,3].collect { |item| item + 1 }
 => [2, 3, 4]
