@@ -15,7 +15,7 @@ tools.
 - [API](#api)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Assembly](#assembly)
-- [Atom (#atom-editor)
+- [Atom (Editor)](#atom-editor)
 - [Bash](#bash)
 - [Bootstrap](#bootstrap)
 - [C](#c)
