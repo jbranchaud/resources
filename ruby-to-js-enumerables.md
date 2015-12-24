@@ -7,6 +7,9 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 [LoDash library](https://lodash.com/).
 
 - [`#all?` → `.every`](#all--every)
+- [`#any?` → `.some`](#any--some)
+- [`#chunk` → `???`](#chunk--)
+- [`#collect` → `.map`](#collect--map)
 
 ---
 
