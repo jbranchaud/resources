@@ -8,7 +8,7 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 
 ---
 
-### `#all` → `.every`
+### `#all?` → `.every`
 
 [`#all?`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-all-3F) (Ruby)
 
