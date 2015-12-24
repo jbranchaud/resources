@@ -6,6 +6,8 @@ draw parallels between similar functions in [Ruby's Enumerable
 module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 [LoDash library](https://lodash.com/).
 
+- [`#all?` → `.every`](#all--every)
+
 ---
 
 ### `#all?` → `.every`
