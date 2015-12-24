@@ -35,6 +35,8 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 
 ---
 
+### `#any?` → `.some`
+
 [`#any?`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-any-3F)
 (Ruby)
 
@@ -61,6 +63,8 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 
 ---
 
+### `#chunk` → `???`
+
 [`#chunk`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-chunk)
 (Ruby)
 
@@ -84,6 +88,8 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 ??? (JavaScript)
 
 ---
+
+### `#collect` → `.map`
 
 [`#collect`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-collect)
 (Ruby)
