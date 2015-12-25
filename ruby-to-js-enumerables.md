@@ -122,3 +122,37 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 > _.map([1,2,3], function(item) { return item * item; });
 => [1, 4, 9]
 ```
+
+---
+
+### `#collect_concat` → `???`
+
+[`#collect_concat`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-collect_concat) (Ruby)
+
+> Returns a new array with the concatenated results of running block once
+> for every element in enum.
+
+```ruby
+> [1,2,3].collect_concat { |item| (1..item).to_a }
+=> [1, 1, 2, 1, 2, 3]
+> ["one", "two", "three"].collect_concat { |item| [item, item.upcase] }
+=> ["one", "ONE", "two", "TWO", "three", "THREE"]
+```
+
+`???` (JavaScript)
+
+There is no direct equivalent provided by LoDash, however the `.map` and
+`.flatten` functions can be combined to achieve the same effect.
+
+```javascript
+> _([1,2,3])
+    .map(function(item) { return _.range(1,item+1); })
+    .flatten()
+    .value();
+=> [1, 1, 2, 1, 2, 3]
+> _(["one","two","three"])
+    .map(function(item) { return [item, item.toUpperCase()]; })
+    .flatten()
+    .value();
+=> ["one", "ONE", "two", "TWO", "three", "THREE"]
+```
