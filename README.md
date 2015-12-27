@@ -304,6 +304,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Frontdesk - community driven list of useful things for front end developers](https://github.com/miripiruni/frontdesk)
 - [Web Fundamentals: Best Practices for Modern Web Development](https://developers.google.com/web/fundamentals/)
 - [Web Starter Kit](https://developers.google.com/web/starter-kit/)
+- [Front-end Developer Handbook](http://www.frontendhandbook.com/)
 
 ## Front-end Web Performance
 
