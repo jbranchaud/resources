@@ -128,7 +128,9 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 
 ### `#collect_concat` → `???`
 
-[`#collect_concat`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-collect_concat) (Ruby)
+[`#collect_concat`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-collect_concat) (Ruby),
+*also known as
+[`#flat_map`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-flat_map)*
 
 > Returns a new array with the concatenated results of running block once
 > for every element in enum.
