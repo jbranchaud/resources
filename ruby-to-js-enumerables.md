@@ -11,6 +11,7 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 - [`#chunk` → `???`](#chunk--)
 - [`#collect` → `.map`](#collect--map)
 - [`#collect_concat` → `???`](#collect_concat--)
+- [`#count` → `.size`](#count--size)
 
 ---
 
@@ -158,4 +159,29 @@ There is no direct equivalent provided by LoDash, however the `.map` and
     .flatten()
     .value();
 => ["one", "ONE", "two", "TWO", "three", "THREE"]
+```
+
+---
+
+### `#count` → `.size`
+
+[`#count`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-count)
+(Ruby)
+
+> Returns the number of items in enum through enumeration.
+
+```ruby
+> [1,2,3].count
+=> 3
+> {a: 1, b: 2}.count
+=> 2
+```
+
+[`.size`](https://lodash.com/docs#size) (JavaScript)
+
+```javascript
+> _.size([1,2,3])
+=> 3
+> _.size({a: 1, b: 2})
+=> 2
 ```
