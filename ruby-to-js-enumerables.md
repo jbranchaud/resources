@@ -188,3 +188,8 @@ There is no direct equivalent provided by LoDash, however the `.map` and
 > _.size({a: 1, b: 2})
 => 2
 ```
+
+*Note: `.size` does not have all the capabilities of `#count`. For instance,
+`#count` can be used for a particular value or the evaluation of a Ruby
+block. Similar behavior can be achieved with LoDash by using `.filter`
+combined with `.size`.*
