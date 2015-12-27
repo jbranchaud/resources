@@ -219,7 +219,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [CSS - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS3 - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 - [Code Guide by @mdo - CSS](http://codeguide.co/#css)
-- [Idomatic CSS](https://github.com/necolas/idiomatic-css)
+- [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
 - [SMACSS - Scalable and Modular Architecture for CSS](http://smacss.com/book/)
 - [WTF, HTML and CSS?](http://wtfhtmlcss.com/)
 - [Must Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
