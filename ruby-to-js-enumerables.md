@@ -10,6 +10,7 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 - [`#any?` → `.some`](#any--some)
 - [`#chunk` → `???`](#chunk--)
 - [`#collect` → `.map`](#collect--map)
+- [`#collect_concat` → `???`](#collect_concat--)
 
 ---
 
