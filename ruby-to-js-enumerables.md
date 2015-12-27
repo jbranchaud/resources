@@ -179,6 +179,9 @@ There is no direct equivalent provided by LoDash, however the `.map` and
 
 [`.size`](https://lodash.com/docs#size) (JavaScript)
 
+> Gets the size of collection by returning its length for array-like values
+> or the number of own enumerable properties for objects.
+
 ```javascript
 > _.size([1,2,3])
 => 3
