@@ -12,6 +12,7 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 - [`#collect` → `.map`](#collect--map)
 - [`#collect_concat` → `???`](#collect_concat--)
 - [`#count` → `.size`](#count--size)
+- [`#cycle` → `???`](#cycle--)
 
 ---
 
@@ -193,3 +194,27 @@ There is no direct equivalent provided by LoDash, however the `.map` and
 `#count` can be used for a particular value or the evaluation of a Ruby
 block. Similar behavior can be achieved with LoDash by using `.filter`
 combined with `.size`.*
+
+---
+
+### `#cycle` → `???`
+
+[`#cycle`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-cycle)
+(Ruby)
+
+> Calls block for each element of enum repeatedly n times or forever if none
+> or nil is given. If a non-positive number is given or the collection is
+> empty, does nothing. Returns nil if the loop has finished without getting
+> interrupted.
+
+```ruby
+> [1,2,3].cycle(2) { |x| puts x }
+1
+2
+3
+1
+2
+3
+```
+
+`???` (JavaScript)
