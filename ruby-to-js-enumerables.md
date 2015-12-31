@@ -13,6 +13,7 @@ module](http://ruby-doc.org/core-2.2.3/Enumerable.html) and JavaScript's
 - [`#collect_concat` → `???`](#collect_concat--)
 - [`#count` → `.size`](#count--size)
 - [`#cycle` → `???`](#cycle--)
+- [`#detect` → `.find`](#detect--find)
 
 ---
 
@@ -218,3 +219,34 @@ combined with `.size`.*
 ```
 
 `???` (JavaScript)
+
+---
+
+### `#detect` → `.find`
+
+[`#detect`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-detect)
+(Ruby)
+*also known as
+[`#find`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-find)*
+
+> Passes each entry in enum to block. Returns the first for which block is
+> not false.
+
+```ruby
+> [1,2,3].detect { |item| item.even? }
+=> 2
+> ['foo','bar','baz'].detect { |item| item =~ /ba/ }
+=> "bar"
+```
+
+[`.find`](https://lodash.com/docs#find) (JavaScript)
+
+> Iterates over elements of collection, returning the first element
+> predicate returns truthy for.
+
+```javascript
+> _.find([1,2,3], function(item) { return item % 2 === 0; })
+=> 2
+> _.find(['foo','bar','baz'], function(item) { return /ba/.test(item); });
+=> "bar"
+```
