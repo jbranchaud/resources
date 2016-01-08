@@ -149,6 +149,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Everything You Need To Know To Write Good C Code](https://github.com/btrask/stronglink/blob/master/SUBSTANCE.md)
 - [Object-Oriented Techniques in C](http://dmitryfrank.com/articles/oop_in_c)
 - [Bit Hacks](http://www.graphics.stanford.edu/~seander/bithacks.html)
+- [How To C in 2016](https://matt.sh/howto-c)
 
 ## C++
 
