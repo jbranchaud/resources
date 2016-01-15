@@ -776,6 +776,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Vim Cheat Sheet](http://vim.rtorr.com/)
 - [Seven Habits of Effective Text Editing](http://www.moolenaar.net/habits.html)
 - [A Good Vimrc](http://dougblack.io/words/a-good-vimrc.html)
+- [Vim Galore](https://github.com/mhinz/vim-galore)
 
 ## Web Apps
 
