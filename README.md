@@ -794,6 +794,6 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 ## License
 
-Copyright &copy; 2014 Josh Branchaud
+Copyright &copy; 2014-2016 Josh Branchaud
 
 Released under the MIT license. See LICENSE for details.
