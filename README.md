@@ -226,6 +226,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Must Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
 - [CSS Protips](https://github.com/AllThingsSmitty/css-protips/blob/master/README.md)
 
+## Factor
+
+- [Beginning Factor - Shufflers & Combinators](http://elasticdog.com/2008/12/beginning-factor-shufflers-and-combinators/)
+
 ### Flexbox
 
 - [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
