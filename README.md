@@ -229,6 +229,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 ## Factor
 
 - [Beginning Factor - Shufflers & Combinators](http://elasticdog.com/2008/12/beginning-factor-shufflers-and-combinators/)
+- [A Panoramic Tour of Factor](http://andreaferretti.github.io/factor-tutorial/)
 
 ### Flexbox
 
