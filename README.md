@@ -460,6 +460,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
 
+## Kotlin
+
+- [Kotlin Docs](http://kotlinlang.org/docs/reference/)
+
 ## LESS
 
 - [LESSCSS.org](http://lesscss.org/)
