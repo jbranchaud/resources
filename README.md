@@ -658,6 +658,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [3 Ways to Integrate Ruby on Rails + React + Flux](http://www.openmindedinnovations.com/blogs/3-ways-to-integrate-ruby-on-rails-react-flux)
 - [React Native Playground](https://rnplay.org/)
 - [How To Structure A React Project](http://reactjsnews.com/structuring-react-projects/)
+- [9 Things Every React.js Beginner Should Know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
 
 ## Ruby
 
