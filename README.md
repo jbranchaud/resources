@@ -128,6 +128,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 ## Blogging
 
+- [Hugo](https://gohugo.io/)
 - [Jargon](http://jargon.io/)
 
 ## Bootstrap
