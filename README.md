@@ -126,6 +126,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [What I learned from other's shell scripts](http://www.fizerkhan.com/blog/posts/What-I-learned-from-other-s-shell-scripts.html)
 - [Filenames and Pathnames in Shell: How to do it correctly](http://www.dwheeler.com/essays/filenames-in-shell.html)
 
+## Blogging
+
+- [Jargon](http://jargon.io/)
+
 ## Bootstrap
 
 - [Bootstrap 3 Tips and Tricks You Might Not Know](http://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know)
