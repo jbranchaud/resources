@@ -68,6 +68,7 @@ tools.
 - [CS For All](http://www.cs.hmc.edu/csforall/)
 - [From Nand to Tetris: Building a Modern Computer From First Principles](http://www.nand2tetris.org/)
 - [Fledgling Languages List](http://fll.presidentbeef.com/)
+- [Pow](http://pow.cx/)
 
 ## 3D Graphics Programming
 
