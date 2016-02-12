@@ -289,7 +289,6 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Zed](http://zedapp.org/)
 - [Ace](http://ace.c9.io/build/kitchen-sink.html) ([github](https://github.com/ajaxorg/ace))
 
-
 ### Sandboxes
 
 - [codepen](http://codepen.io/)
@@ -304,6 +303,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [Ember.js Official Guides](http://emberjs.com/guides/)
 - [Vic Ramon's Ember Tutorial](http://ember.vicramon.com/)
+
+## Erlang
+
+- [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/content)
 
 ## Flask
 
