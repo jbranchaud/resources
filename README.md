@@ -589,7 +589,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 - [The Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
 
-## Postgres
+## PostgreSQL
 
 - [Postgres Guide](http://www.postgresguide.com/)
 - [Postgresql: A Full Text Search Engine](http://shisaa.jp/postset/postgresql-full-text-search-part-1.html)
