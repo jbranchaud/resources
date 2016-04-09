@@ -659,6 +659,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 
 ## React.js
 
+- [React Basic](https://github.com/reactjs/react-basic)
 - [React Primer](https://github.com/mikechau/react-primer-draft)
 - [Learning React.js: Getting Started and Concepts](http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts)
 - [Build a Real-Time Twitter Stream with Node and React.js](http://scotch.io/tutorials/javascript/build-a-real-time-twitter-stream-with-node-and-react-js)
