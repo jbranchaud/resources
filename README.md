@@ -464,6 +464,10 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 - [The Refactoring Tales](http://javascriptplayground.com/the-refactoring-tales/)
 
+### ES6
+
+- [ES6 Succinctly](http://kamranahmed.info/blog/2016/04/04/es6-in-depth/)
+
 ## jQuery
 
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
