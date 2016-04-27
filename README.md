@@ -182,6 +182,7 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 - [SCIP Distilled](http://www.sicpdistilled.com/section/welcome)
 - [Clojure By Example](http://kimh.github.io/clojure-by-example/)
+- [Clojure, The Good Parts](https://rasterize.io/blog/clojure-the-good-parts.html)
 
 ## ClojureScript
 
