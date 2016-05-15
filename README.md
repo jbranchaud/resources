@@ -70,6 +70,7 @@ tools.
 - [Fledgling Languages List](http://fll.presidentbeef.com/)
 - [Pow](http://pow.cx/)
 - [DBWrench](http://www.dbwrench.com/)
+- [Programming From The Ground Up](http://savannah.nongnu.org/projects/pgubook/)
 
 ## 3D Graphics Programming
 
