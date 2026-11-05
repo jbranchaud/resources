@@ -466,6 +466,8 @@ post](http://michaelcrump.net/angularjs-learning-materials)*
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 - [The Refactoring Tales](http://javascriptplayground.com/the-refactoring-tales/)
 
+- [Preserve Large Numbers and Identifiers in JSON](https://bestjson.com/learn/json-large-numbers)
+
 ### ES6
 
 - [ES6 Succinctly](http://kamranahmed.info/blog/2016/04/04/es6-in-depth/)
